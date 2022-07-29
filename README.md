@@ -42,6 +42,7 @@ Start = Alter sequencer speed
 
 
 
+--------
 
 
 Note: 
@@ -65,6 +66,7 @@ Keys 0 - 3 = directions, 4 = button A,
 Allow midi in Chrome. Suggested source for midi-jamming:
 https://www.pythonanywhere.com/user/Fumetsujo/files/home/Fumetsujo/Eir_Remote/st... 
 
+--------
 
 
 
