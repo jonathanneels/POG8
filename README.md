@@ -1,21 +1,12 @@
-# POG8
-Game boy Pocket Operator - Sequence and jam 8-bit sounds!
-
 This game can be played in the browser or local on any modern device (with Chrome or Firefox). 
 
-
 You can control the game with gamepad, touch, keyboard or even with a midi-controller! 
-
-
 POG8 (Pocket Operator Game Eight aka Pocket Operator Game 8oy) is a music tool. 
 It's a musical step sequencer and a jamming instrument, with a variety of sounds. 
 
 
-Reason of the project: 
-I love Pocket Operator from Teenage Engineering and the classic Game Boy! 
+Reason of the project:  I love Pocket Operator from Teenage Engineering and the classic Game Boy! 
 Just imagine if the Pocket Operators made their debut in the 90's.  
-
-
 The used "programming tool" for the project is the Gameboy Studio V3. 
 
 
@@ -23,18 +14,20 @@ Controls:
 
 Select = switch between Sequencer or jamming 
 
-
 Jamming
+
 --------
+
 Direction pad = play musical notes
+
 B button = Alter scale range
 A button = Alter note range
 Start = Alter Instrument
 
-
-
 Sequencer
+
 --------
+
 Direction pad = move the cursor over a node
 B button = Open sequence node menu to select sound
 A button = Alter sequencer sound set
@@ -42,14 +35,9 @@ Start = Alter sequencer speed
 
 
 
---------
-
-
-Note: 
-New sequencer and jamming instruments might be added! 
-
-
 Extra: 
+
+Keyboard;
 Up - Up Arrow / W.
 Down - Down Arrow / S.
 Left - Left Arrow / A.
@@ -59,14 +47,25 @@ B - Ctrl / K / X.
 Start - Enter.
 Select - Shift.
 
-Midi-controller; set on lowest soundrange.
+Midi-controller (set on lowest soundrange):
 Keys 0 - 3 = directions, 4 = button A,
 5 = 2xA, 6 = 3xA, 7= button B,
 8 = Select, 9 = Select
 Allow midi in Chrome. Suggested source for midi-jamming:
 https://www.pythonanywhere.com/user/Fumetsujo/files/home/Fumetsujo/Eir_Remote/st... 
 
---------
+
+
+
+You can get the complete code here:
+
+https://github.com/jonathanneels/POG8
+
+
+
+
+Note: 
+New sequencer and jamming instruments might be added! 
 
 
 
