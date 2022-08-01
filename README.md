@@ -67,7 +67,8 @@ https://github.com/jonathanneels/POG8
 Note: 
 New sequencer and jamming instruments might be added! 
 
-
+PS: 
+Unzip "unzip_SRC_This_Dir.zip" from https://github.com/jonathanneels/POG8/blob/main/build/src/unzip_SRC_This_Dir.zip in the "src" directory if you want to work on the POG8 GB studio project.
 
 
 Enjoy!!
