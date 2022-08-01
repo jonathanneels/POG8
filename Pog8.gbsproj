@@ -19281,7 +19281,7 @@
                         ],
                         "override": false,
                         "__scriptTabs": "press",
-                        "__collapse": true,
+                        "__collapse": false,
                         "__comment": false
                     },
                     "children": {
@@ -19791,14 +19791,14 @@
                                                                                 "command": "EVENT_WAIT",
                                                                                 "args": {
                                                                                     "time": 0.1,
-                                                                                    "__comment": true
+                                                                                    "__comment": false
                                                                                 },
                                                                                 "id": "3f3b3262-79a3-4c00-87bf-c079a53e97da"
                                                                             },
                                                                             {
                                                                                 "command": "EVENT_MUSIC_STOP",
                                                                                 "args": {
-                                                                                    "__comment": true
+                                                                                    "__comment": false
                                                                                 },
                                                                                 "id": "a75c7331-d074-4579-a702-bde45a6dd8e9"
                                                                             }
