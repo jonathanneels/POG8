@@ -54,7 +54,7 @@ Keys 0 - 3 = directions, 4 = button A,
 Allow midi in Chrome. Suggested source for midi-jamming:
 https://www.pythonanywhere.com/user/Fumetsujo/files/home/Fumetsujo/Eir_Remote/st... 
 
-Game is automatically saved after the 16th step.
+Game is automatically saved after a change.
 
 
 You can get the complete code here:
