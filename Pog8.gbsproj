@@ -845,6 +845,18 @@
                             "id": "9529b19f-e0dd-4768-824b-d2f01b9f182b"
                         },
                         {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "25",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "10"
+                            },
+                            "id": "565832c8-4fb9-4449-a4a6-46a1adfde820"
+                        },
+                        {
                             "command": "EVENT_INC_VALUE",
                             "args": {
                                 "variable": "4",
@@ -1687,6 +1699,18 @@
                                 "false": []
                             },
                             "id": "a7b9aa9f-1182-49c8-a29c-69c145a05a10"
+                        },
+                        {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "26",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "5"
+                            },
+                            "id": "2ed94581-4197-4964-9cb4-8bd97782b2d3"
                         },
                         {
                             "command": "EVENT_INC_VALUE",
@@ -2533,6 +2557,18 @@
                             "id": "b14d0983-4296-4898-89fc-f11f3e33f7a2"
                         },
                         {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "27",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "6"
+                            },
+                            "id": "a4ca43f5-394a-4de3-8c95-c10f9eb592a5"
+                        },
+                        {
                             "command": "EVENT_INC_VALUE",
                             "args": {
                                 "variable": "4",
@@ -3375,6 +3411,18 @@
                                 "false": []
                             },
                             "id": "c2a35217-5eb5-4936-b4f8-774d7d3318b6"
+                        },
+                        {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "28",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "7"
+                            },
+                            "id": "1e19d62a-0df0-4b38-a9a0-d03e5349c5a6"
                         },
                         {
                             "command": "EVENT_INC_VALUE",
@@ -4221,6 +4269,18 @@
                             "id": "0dbe7ba1-d775-4007-bc3f-91af1202858f"
                         },
                         {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "29",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "8"
+                            },
+                            "id": "ae0b8436-fd6a-4774-818a-777cb47f594c"
+                        },
+                        {
                             "command": "EVENT_INC_VALUE",
                             "args": {
                                 "variable": "4",
@@ -5063,6 +5123,18 @@
                                 "false": []
                             },
                             "id": "4dfa7015-f522-461b-b1cc-be8be644577a"
+                        },
+                        {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "30",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "9"
+                            },
+                            "id": "4adad4a5-7381-49f9-9380-f0d134c4d2f3"
                         },
                         {
                             "command": "EVENT_INC_VALUE",
@@ -5909,6 +5981,18 @@
                             "id": "54615f70-d6c0-4c27-90c2-72b102733e19"
                         },
                         {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "31",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "11"
+                            },
+                            "id": "eef8fc00-ea2d-47ee-805b-3bf94b6c935f"
+                        },
+                        {
                             "command": "EVENT_INC_VALUE",
                             "args": {
                                 "variable": "4",
@@ -6751,6 +6835,18 @@
                                 "false": []
                             },
                             "id": "8c2568ad-6158-4353-b4bc-154a8f515c00"
+                        },
+                        {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "32",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "12"
+                            },
+                            "id": "8d294910-c33d-4027-ad89-f04c9c133d6f"
                         },
                         {
                             "command": "EVENT_INC_VALUE",
@@ -7597,6 +7693,18 @@
                             "id": "08a4ba90-cd45-4ee8-8d7d-e80ddea55268"
                         },
                         {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "33",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "13"
+                            },
+                            "id": "89be5626-3a9c-403b-a383-9d6de050a351"
+                        },
+                        {
                             "command": "EVENT_INC_VALUE",
                             "args": {
                                 "variable": "4",
@@ -8439,6 +8547,18 @@
                                 "false": []
                             },
                             "id": "97364d31-588e-4204-ac79-671c59bb770f"
+                        },
+                        {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "34",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "14"
+                            },
+                            "id": "fb5d35c7-865b-44b0-ac01-870476673a0d"
                         },
                         {
                             "command": "EVENT_INC_VALUE",
@@ -9285,6 +9405,18 @@
                             "id": "08269756-aa4d-4a68-8cd0-697c0f94e671"
                         },
                         {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "35",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "15"
+                            },
+                            "id": "55bb7e2c-b05b-47a7-a692-34e6dc6237d0"
+                        },
+                        {
                             "command": "EVENT_INC_VALUE",
                             "args": {
                                 "variable": "4",
@@ -10127,6 +10259,18 @@
                                 "false": []
                             },
                             "id": "00a955a8-a6ab-465e-b4eb-ccf9d101fe30"
+                        },
+                        {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "36",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "16"
+                            },
+                            "id": "1743207c-5c74-45d2-a826-543aa0b26627"
                         },
                         {
                             "command": "EVENT_INC_VALUE",
@@ -10973,6 +11117,18 @@
                             "id": "e80c64ab-f9a2-4ff1-869f-1d84204d0967"
                         },
                         {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "37",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "17"
+                            },
+                            "id": "436ffc81-2d7e-4f12-a663-ed4d58f50e11"
+                        },
+                        {
                             "command": "EVENT_INC_VALUE",
                             "args": {
                                 "variable": "4",
@@ -11815,6 +11971,18 @@
                                 "false": []
                             },
                             "id": "5e833e7f-4e29-45f1-b607-f58eef725169"
+                        },
+                        {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "38",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "18"
+                            },
+                            "id": "10287957-71d4-4fba-8bec-6b668d82607c"
                         },
                         {
                             "command": "EVENT_INC_VALUE",
@@ -12661,6 +12829,18 @@
                             "id": "b969b409-52e5-4233-ad77-132bb9d06cea"
                         },
                         {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "39",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "19"
+                            },
+                            "id": "50a37f9d-a0eb-41b9-997a-6aea2ac146a9"
+                        },
+                        {
                             "command": "EVENT_INC_VALUE",
                             "args": {
                                 "variable": "4",
@@ -13505,6 +13685,27 @@
                             "id": "60691620-cf2e-421c-9cbd-9aa72e0a2465"
                         },
                         {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {
+                                "__collapse": true,
+                                "customEventId": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+                                "$variable[0]$": "40",
+                                "$variable[1]$": "4",
+                                "$variable[4]$": "4",
+                                "$variable[5]$": "20"
+                            },
+                            "id": "c39992dc-d35f-4a33-86c3-13d6c9304a8e"
+                        },
+                        {
+                            "command": "EVENT_WAIT",
+                            "args": {
+                                "time": 0.1,
+                                "variable": "4",
+                                "__collapse": true
+                            },
+                            "id": "7edbb0c3-865b-4ad0-a0c1-80cff6bc61ac"
+                        },
+                        {
                             "command": "EVENT_IF_VALUE",
                             "args": {
                                 "variable": "3",
@@ -13568,15 +13769,6 @@
                                 "__collapse": true
                             },
                             "id": "95cc95ad-a256-4a0c-8cbb-403c0f286ee1"
-                        },
-                        {
-                            "command": "EVENT_WAIT",
-                            "args": {
-                                "time": 0.1,
-                                "variable": "4",
-                                "__collapse": true
-                            },
-                            "id": "7edbb0c3-865b-4ad0-a0c1-80cff6bc61ac"
                         }
                     ],
                     "hit1Script": [],
@@ -13628,7 +13820,7 @@
                                                         "operator": "==",
                                                         "comparator": -1,
                                                         "__collapseElse": false,
-                                                        "__collapse": true
+                                                        "__collapse": false
                                                     },
                                                     "children": {
                                                         "true": [
@@ -13810,6 +14002,53 @@
                                                         "false": []
                                                     },
                                                     "id": "d7c7785c-7b34-49c5-8c66-cdc924e6412d"
+                                                },
+                                                {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": true
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "25",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "86785abc-4c7b-42a8-aae4-be8ce17fdf9c"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "10",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "00-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "dab141ac-9bb8-42cd-85d3-6ebfcbfed3d2"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "7eb25c27-8d35-4645-a5cc-193d04ecd691"
                                                 },
                                                 {
                                                     "command": "EVENT_SET_VALUE",
@@ -15109,6 +15348,11 @@
                                 "false": []
                             },
                             "id": "8ec45988-b035-44f7-bbdc-d7bdbaab2213"
+                        },
+                        {
+                            "command": "EVENT_CALL_CUSTOM_EVENT",
+                            "args": {},
+                            "id": "4e83543c-bcec-46d3-8342-0ea5a76ad8a9"
                         }
                     ],
                     "hit1Script": [],
@@ -15341,6 +15585,53 @@
                                                         "false": []
                                                     },
                                                     "id": "3a4d35b0-46a5-434b-b7fa-690555cff853"
+                                                },
+                                                {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": true
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "38",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "3dc14115-bb34-46ca-8cec-2346920a5594"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "18",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "13-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "273b392a-3555-47fb-8707-8eddb16d884f"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "ecb9a595-2ddc-4577-9a39-a108dda69286"
                                                 },
                                                 {
                                                     "command": "EVENT_SET_VALUE",
@@ -15600,6 +15891,53 @@
                                                     "id": "8daa817a-f4ff-4e20-902b-6d3fbf39000b"
                                                 },
                                                 {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": false
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "32",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "10f1e4e2-3f63-4748-8c28-ceba9b22530c"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "12",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "07-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "0d4f81da-ac0a-4ebb-a013-697788f4d239"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "5fb3a1f8-4d6a-4769-82a3-24d936643582"
+                                                },
+                                                {
                                                     "command": "EVENT_SET_VALUE",
                                                     "args": {
                                                         "variable": "42",
@@ -15854,6 +16192,53 @@
                                                         "false": []
                                                     },
                                                     "id": "8fb6b17c-a456-44d6-ac21-a61018899a17"
+                                                },
+                                                {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": true
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "37",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "708004bd-e6a3-42ae-b4d4-6c33633d23c2"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "17",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "12-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "63424249-c5e8-4f11-bfa4-bca03ea23eb9"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "1b173e01-5b4a-420c-a4d0-0821e8593761"
                                                 },
                                                 {
                                                     "command": "EVENT_SET_VALUE",
@@ -16112,6 +16497,53 @@
                                                     "id": "bf67549e-f76e-4647-863f-f2b2590b8a40"
                                                 },
                                                 {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": true
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "40",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "a9c90cf4-4bd7-4ba6-8d5f-cc12e789c90e"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "20",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "15-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "9b738712-a6f6-4e69-98e0-21f352e88d22"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "e23dbc27-c582-4ef4-8b12-d397ced84607"
+                                                },
+                                                {
                                                     "command": "EVENT_SET_VALUE",
                                                     "args": {
                                                         "variable": "42",
@@ -16368,6 +16800,53 @@
                                                     "id": "ae67ecd7-cc87-4759-b07e-c7e90a0d68be"
                                                 },
                                                 {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": true
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "39",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "61b5febd-f95e-47b1-8f4b-fea4c798500a"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "19",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "14-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "501acea0-84a0-4297-8893-88abc9ac2d3f"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "369c85de-a80d-442b-b1ef-8bdd0b2a22b1"
+                                                },
+                                                {
                                                     "command": "EVENT_SET_VALUE",
                                                     "args": {
                                                         "variable": "42",
@@ -16622,6 +17101,53 @@
                                                         "false": []
                                                     },
                                                     "id": "ce69df96-c515-43fc-b467-ea93cafd46fe"
+                                                },
+                                                {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": true
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "33",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "49a01246-0898-4cb0-b9ed-e00d9e587079"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "13",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "08-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "83babebe-49b8-4d32-90da-c7b2ea1b3705"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "247f1192-b1ac-4edd-ae16-eda09811aad8"
                                                 },
                                                 {
                                                     "command": "EVENT_SET_VALUE",
@@ -16908,6 +17434,53 @@
                                                     "id": "13dbce27-5191-4819-b7ac-ca63abf2532b"
                                                 },
                                                 {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": true
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "34",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "e1e6731d-209c-41bd-acfd-37d72f676723"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "14",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "09-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "5a67127d-5b40-4ee9-82e2-c9ddd8ed51ad"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "7f1043b5-ef5d-4de7-a964-6f522955d4e0"
+                                                },
+                                                {
                                                     "command": "EVENT_SET_VALUE",
                                                     "args": {
                                                         "variable": "42",
@@ -17162,6 +17735,53 @@
                                                         "false": []
                                                     },
                                                     "id": "f7f8bd05-d3a7-4a92-80f7-46a3b3fe7d43"
+                                                },
+                                                {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": true
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "35",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "588514a2-85ec-421e-8ae7-f84a9535ddc5"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "15",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "10-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "6d3a32f5-8b5f-429f-aa28-e7da22742b46"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "a8a7c608-fc19-4111-b863-35cab951cbbb"
                                                 },
                                                 {
                                                     "command": "EVENT_SET_VALUE",
@@ -17420,6 +18040,53 @@
                                                     "id": "6b68e317-4660-4bad-b61a-b378c4a064aa"
                                                 },
                                                 {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": false
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "26",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "2e80427d-bf14-4b6c-9df9-1e46eb6d6159"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "5",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "01-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "fd2ad181-ab81-412d-8528-0efab25ec8fa"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "68b39ada-2812-46e6-8d7c-1a373b4bfe8d"
+                                                },
+                                                {
                                                     "command": "EVENT_SET_VALUE",
                                                     "args": {
                                                         "variable": "42",
@@ -17674,6 +18341,53 @@
                                                         "false": []
                                                     },
                                                     "id": "408a3ea3-11ee-4a06-8739-2601b9b5f6cf"
+                                                },
+                                                {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": false
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "27",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "152d3194-b95b-4dc5-9d0e-61c38597bce7"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "6",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "02-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "6145ba82-97f1-4da4-beb9-e86980f493f2"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "7fb1d0ed-ad01-42b1-91b8-00ada9bd7530"
                                                 },
                                                 {
                                                     "command": "EVENT_SET_VALUE",
@@ -17932,6 +18646,53 @@
                                                     "id": "f2d78f4b-5483-48c6-ab5c-5aeb5a6ad144"
                                                 },
                                                 {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": false
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "28",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "82b8852b-2d4b-485a-ad0b-4ca62fcaa73f"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "7",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "03-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "25bf38bb-e814-4126-86ea-675004b6c20d"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "caf8272d-ef60-4ddb-b7f2-dda00b2885e3"
+                                                },
+                                                {
                                                     "command": "EVENT_SET_VALUE",
                                                     "args": {
                                                         "variable": "42",
@@ -18186,6 +18947,53 @@
                                                         "false": []
                                                     },
                                                     "id": "73c13501-ebe8-432f-baa4-fcc16949237c"
+                                                },
+                                                {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": true
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "29",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "4e6fa9e3-1692-4bcb-bc33-1ba7367dc32f"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "8",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "04-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "cd4fc681-b12e-44c7-96ed-2589062be1c7"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "7063a170-ec08-4df0-be30-c2d3c7a517a4"
                                                 },
                                                 {
                                                     "command": "EVENT_SET_VALUE",
@@ -18444,6 +19252,53 @@
                                                     "id": "1a920564-30ae-47b4-b93c-237d4e7f0e62"
                                                 },
                                                 {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": true
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "36",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "c13f54d5-21d7-42c1-a6f1-d5483622f232"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "16",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "11-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "a449a75a-b5f9-43e5-af95-a0183f43cfa0"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "1aefbd5d-739e-4cf5-adc8-c231ff75d52a"
+                                                },
+                                                {
                                                     "command": "EVENT_SET_VALUE",
                                                     "args": {
                                                         "variable": "42",
@@ -18698,6 +19553,53 @@
                                                         "false": []
                                                     },
                                                     "id": "b6f550a4-014e-4d8a-b4b5-6719cd1a2bfd"
+                                                },
+                                                {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": false
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "30",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "18dac8b2-028d-44c1-88eb-490645e3465f"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "9",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "05-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "d93f3b08-5fd1-4416-9f61-6a3f30853a39"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "6c05a65a-7033-4bed-92a0-3cceebb5f2b7"
                                                 },
                                                 {
                                                     "command": "EVENT_SET_VALUE",
@@ -18956,6 +19858,53 @@
                                                     "id": "83ec75fe-b5b5-4808-ae1b-bafb4586c99f"
                                                 },
                                                 {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "21",
+                                                        "operator": "==",
+                                                        "comparator": 3,
+                                                        "__collapseElse": false,
+                                                        "__collapse": true
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_SET_VALUE",
+                                                                "args": {
+                                                                    "variable": "31",
+                                                                    "value": {
+                                                                        "type": "number",
+                                                                        "value": 3
+                                                                    },
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "08c5a016-cb38-41bc-a799-23df134e6254"
+                                                            },
+                                                            {
+                                                                "command": "EVENT_MENU",
+                                                                "args": {
+                                                                    "variable": "11",
+                                                                    "items": 8,
+                                                                    "option1": "Buzz C3",
+                                                                    "option2": "Buzz D3",
+                                                                    "option3": "Buzz E3",
+                                                                    "option4": "Buzz F3",
+                                                                    "option5": "Buzz G3",
+                                                                    "option6": "Buzz A3",
+                                                                    "option7": "Buzz B3",
+                                                                    "option8": "06-none",
+                                                                    "cancelOnB": false,
+                                                                    "layout": "menu",
+                                                                    "cancelOnLastOption": true
+                                                                },
+                                                                "id": "f050f5ba-1290-417f-a49f-6335a5002772"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "f89d02f1-7829-4612-a91e-43ba58bf9a5d"
+                                                },
+                                                {
                                                     "command": "EVENT_SET_VALUE",
                                                     "args": {
                                                         "variable": "42",
@@ -19039,7 +19988,7 @@
                         ],
                         "override": false,
                         "__scriptTabs": "press",
-                        "__collapse": true,
+                        "__collapse": false,
                         "__comment": false
                     },
                     "children": {
@@ -19060,7 +20009,7 @@
                                             "args": {
                                                 "variable": "21",
                                                 "operator": "<",
-                                                "comparator": 3,
+                                                "comparator": 4,
                                                 "__collapseElse": false,
                                                 "__collapse": false
                                             },
@@ -19071,7 +20020,7 @@
                                                         "args": {
                                                             "variable": "21",
                                                             "operator": "==",
-                                                            "comparator": 2,
+                                                            "comparator": 3,
                                                             "__collapseElse": false,
                                                             "__collapse": false
                                                         },
@@ -19190,6 +20139,33 @@
                                                                         "false": []
                                                                     },
                                                                     "id": "f50882d3-00e9-4679-9bfb-9d9aa737aecb"
+                                                                },
+                                                                {
+                                                                    "command": "EVENT_IF_VALUE",
+                                                                    "args": {
+                                                                        "variable": "21",
+                                                                        "operator": "==",
+                                                                        "comparator": 3,
+                                                                        "__collapseElse": false,
+                                                                        "__collapse": false
+                                                                    },
+                                                                    "children": {
+                                                                        "true": [
+                                                                            {
+                                                                                "command": "EVENT_TEXT",
+                                                                                "args": {
+                                                                                    "text": [
+                                                                                        "Seq. sounds 4 set."
+                                                                                    ],
+                                                                                    "avatarId": "",
+                                                                                    "__collapse": false
+                                                                                },
+                                                                                "id": "4b560b4e-611c-43b3-8c10-3ae29e9e722e"
+                                                                            }
+                                                                        ],
+                                                                        "false": []
+                                                                    },
+                                                                    "id": "17d8a230-a360-4ea4-a5a3-9a0a0dd68424"
                                                                 }
                                                             ]
                                                         },
@@ -19212,7 +20188,7 @@
                                     "operator": "==",
                                     "comparator": 1,
                                     "__collapseElse": false,
-                                    "__collapse": false
+                                    "__collapse": true
                                 },
                                 "children": {
                                     "true": [
@@ -31589,7 +32565,7 @@
                         "operator": "==",
                         "comparator": -1,
                         "__collapseElse": true,
-                        "__collapse": true,
+                        "__collapse": false,
                         "__disableElse": false,
                         "__comment": false
                     },
@@ -34659,9 +35635,341 @@
                     "id": "5450891e-443f-45a0-883b-2f6204e2d075"
                 }
             ]
+        },
+        {
+            "id": "15da6ff1-0b82-4f78-9671-f5798a4b13f1",
+            "name": "SeqSound3ForPointers",
+            "description": "Select the sequence sound.",
+            "variables": {
+                "0": {
+                    "id": "0",
+                    "name": "intLoopSet"
+                },
+                "1": {
+                    "id": "1",
+                    "name": "cursorStepYouNeed"
+                },
+                "4": {
+                    "id": "4",
+                    "name": "intCursorPointer"
+                },
+                "5": {
+                    "id": "5",
+                    "name": "intLoopSound"
+                }
+            },
+            "actors": {},
+            "script": [
+                {
+                    "command": "EVENT_IF_VALUE",
+                    "args": {
+                        "variable": "0",
+                        "operator": "==",
+                        "comparator": 3,
+                        "__collapseElse": true,
+                        "__collapse": false,
+                        "__disableElse": false
+                    },
+                    "children": {
+                        "true": [
+                            {
+                                "command": "EVENT_IF_VALUE_COMPARE",
+                                "args": {
+                                    "vectorX": "4",
+                                    "operator": "==",
+                                    "vectorY": "1",
+                                    "__collapseElse": true,
+                                    "__collapse": true
+                                },
+                                "children": {
+                                    "true": [
+                                        {
+                                            "command": "EVENT_IF_VALUE",
+                                            "args": {
+                                                "variable": "5",
+                                                "operator": "==",
+                                                "comparator": 1,
+                                                "__collapseElse": false,
+                                                "__collapse": true
+                                            },
+                                            "children": {
+                                                "true": [
+                                                    {
+                                                        "command": "EVENT_MUSIC_PLAY",
+                                                        "args": {
+                                                            "musicId": "08807ff3-188a-4cbf-a740-19c7aecc9b0f",
+                                                            "loop": false,
+                                                            "__collapse": false
+                                                        },
+                                                        "id": "2c13600f-686c-4920-b866-abad8a260011"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_WAIT",
+                                                        "args": {
+                                                            "time": 0.1,
+                                                            "__collapse": true
+                                                        },
+                                                        "id": "9d5612c0-8863-477a-9415-8fa9bcf1ac01"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_STOP",
+                                                        "args": {},
+                                                        "id": "ae8e6468-dc3d-4873-b78f-9bf2d8e0d55d"
+                                                    }
+                                                ],
+                                                "false": []
+                                            },
+                                            "id": "ad3d0800-206d-45d5-ad67-7aec20b5584b"
+                                        },
+                                        {
+                                            "command": "EVENT_IF_VALUE",
+                                            "args": {
+                                                "variable": "5",
+                                                "operator": "==",
+                                                "comparator": 2,
+                                                "__collapseElse": false,
+                                                "__collapse": true
+                                            },
+                                            "children": {
+                                                "true": [
+                                                    {
+                                                        "command": "EVENT_MUSIC_PLAY",
+                                                        "args": {
+                                                            "musicId": "2f0531bf-5382-417b-9b4b-d0655ef44185",
+                                                            "loop": false,
+                                                            "__collapse": false
+                                                        },
+                                                        "id": "82ed836f-73e8-4599-9cb5-c377d4c174ab"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_WAIT",
+                                                        "args": {
+                                                            "time": 0.1,
+                                                            "__collapse": true
+                                                        },
+                                                        "id": "82c2028c-2213-4cc2-ae9f-717f1d740617"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_STOP",
+                                                        "args": {},
+                                                        "id": "cce4ae25-fbd7-46f2-bb14-c2f1a87514b9"
+                                                    }
+                                                ],
+                                                "false": []
+                                            },
+                                            "id": "3b9a1c92-5f6a-4011-a122-b9acc4f6b2cd"
+                                        },
+                                        {
+                                            "command": "EVENT_IF_VALUE",
+                                            "args": {
+                                                "variable": "5",
+                                                "operator": "==",
+                                                "comparator": 3,
+                                                "__collapseElse": false,
+                                                "__collapse": true
+                                            },
+                                            "children": {
+                                                "true": [
+                                                    {
+                                                        "command": "EVENT_MUSIC_PLAY",
+                                                        "args": {
+                                                            "musicId": "cd86745c-93d8-41b3-8a79-bc6acebbfdfd",
+                                                            "loop": false,
+                                                            "__collapse": false
+                                                        },
+                                                        "id": "62d5b917-edc2-4311-9059-6b239e32eb55"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_WAIT",
+                                                        "args": {
+                                                            "time": 0.1,
+                                                            "__collapse": true
+                                                        },
+                                                        "id": "c9e4ed6b-c995-4aaa-8318-9d5267b058a9"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_STOP",
+                                                        "args": {},
+                                                        "id": "ae57e6d2-90be-45da-8d6c-b2c156746483"
+                                                    }
+                                                ],
+                                                "false": []
+                                            },
+                                            "id": "a85f1cc1-c379-47d6-8f75-fc4017fedf3b"
+                                        },
+                                        {
+                                            "command": "EVENT_IF_VALUE",
+                                            "args": {
+                                                "variable": "5",
+                                                "operator": "==",
+                                                "comparator": 4,
+                                                "__collapseElse": false,
+                                                "__collapse": true
+                                            },
+                                            "children": {
+                                                "true": [
+                                                    {
+                                                        "command": "EVENT_MUSIC_PLAY",
+                                                        "args": {
+                                                            "musicId": "bcf28fab-3b14-498e-9893-f95972327a14",
+                                                            "loop": false,
+                                                            "__collapse": false
+                                                        },
+                                                        "id": "fa267b9b-b54e-487a-9c22-ad6b7438e10b"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_WAIT",
+                                                        "args": {
+                                                            "time": 0.1,
+                                                            "__collapse": true
+                                                        },
+                                                        "id": "ae44949f-0520-4381-917d-54844e96e965"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_STOP",
+                                                        "args": {},
+                                                        "id": "457907a4-0eb7-492b-aa95-442e63ac15f7"
+                                                    }
+                                                ],
+                                                "false": []
+                                            },
+                                            "id": "b49d75aa-4da8-47d3-bf9b-ab10e0db70de"
+                                        },
+                                        {
+                                            "command": "EVENT_IF_VALUE",
+                                            "args": {
+                                                "variable": "5",
+                                                "operator": "==",
+                                                "comparator": 5,
+                                                "__collapseElse": false,
+                                                "__collapse": true
+                                            },
+                                            "children": {
+                                                "true": [
+                                                    {
+                                                        "command": "EVENT_MUSIC_PLAY",
+                                                        "args": {
+                                                            "musicId": "958bdd2f-a813-4d8d-a3e0-10d6e53a96a5",
+                                                            "loop": false,
+                                                            "__collapse": false
+                                                        },
+                                                        "id": "01a9a25f-3521-45a9-b705-313389419ca7"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_WAIT",
+                                                        "args": {
+                                                            "time": 0.1,
+                                                            "__collapse": true
+                                                        },
+                                                        "id": "23654880-a588-4506-a678-4db0fc84da02"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_STOP",
+                                                        "args": {},
+                                                        "id": "4245a1eb-73b0-40e5-af57-937f8040deef"
+                                                    }
+                                                ],
+                                                "false": []
+                                            },
+                                            "id": "e24b815e-ce3c-480b-94b8-2554180b2fd0"
+                                        },
+                                        {
+                                            "command": "EVENT_IF_VALUE",
+                                            "args": {
+                                                "variable": "5",
+                                                "operator": "==",
+                                                "comparator": 6,
+                                                "__collapseElse": false,
+                                                "__collapse": true
+                                            },
+                                            "children": {
+                                                "true": [
+                                                    {
+                                                        "command": "EVENT_MUSIC_PLAY",
+                                                        "args": {
+                                                            "musicId": "a575bad2-ff6d-448b-8787-79711467e506",
+                                                            "loop": false,
+                                                            "__collapse": false
+                                                        },
+                                                        "id": "32615b98-c750-4e5c-aba7-6f042de2a261"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_WAIT",
+                                                        "args": {
+                                                            "time": 0.1,
+                                                            "__collapse": true
+                                                        },
+                                                        "id": "9d2a4de6-465d-4fbd-95c2-c3d776cef3b3"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_STOP",
+                                                        "args": {},
+                                                        "id": "da8299ac-31d7-4bb1-a5a7-5844a892c3a1"
+                                                    }
+                                                ],
+                                                "false": []
+                                            },
+                                            "id": "e7ce3c8b-5bbc-496e-95b2-66255eabe1ab"
+                                        },
+                                        {
+                                            "command": "EVENT_IF_VALUE",
+                                            "args": {
+                                                "variable": "5",
+                                                "operator": "==",
+                                                "comparator": 7,
+                                                "__collapseElse": false,
+                                                "__collapse": true
+                                            },
+                                            "children": {
+                                                "true": [
+                                                    {
+                                                        "command": "EVENT_MUSIC_PLAY",
+                                                        "args": {
+                                                            "musicId": "7c4d6785-d43c-4d81-a1ab-23272365ce59",
+                                                            "loop": false,
+                                                            "__collapse": false
+                                                        },
+                                                        "id": "b54563de-5cd2-4500-a2e5-75b7166ec084"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_WAIT",
+                                                        "args": {
+                                                            "time": 0.1,
+                                                            "__collapse": true
+                                                        },
+                                                        "id": "e0b11989-b2df-4444-808b-dc5fa533b5b2"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_STOP",
+                                                        "args": {},
+                                                        "id": "c2e981af-7b22-4c8f-b96d-2e26e9243d17"
+                                                    }
+                                                ],
+                                                "false": []
+                                            },
+                                            "id": "356be446-801c-4031-b130-7b8e2770a526"
+                                        }
+                                    ],
+                                    "false": []
+                                },
+                                "id": "92e7d030-d78d-4f6c-8a79-b6560546d434"
+                            }
+                        ],
+                        "false": []
+                    },
+                    "id": "e0430ae8-4aef-4f29-9733-c776f945e6bb"
+                }
+            ]
         }
     ],
     "music": [
+        {
+            "id": "a575bad2-ff6d-448b-8787-79711467e506",
+            "name": "A3_drum2",
+            "filename": "A3_drum2.uge",
+            "settings": {},
+            "type": "uge"
+        },
         {
             "id": "540bc6e6-90fe-4047-a44a-3147818bde24",
             "name": "A3_instr7",
@@ -34722,6 +36030,13 @@
             "id": "6e70ce6f-4e4a-4d72-87d1-f3cd92d5db0f",
             "name": "A8_instr1",
             "filename": "A8_instr1.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
+            "id": "7c4d6785-d43c-4d81-a1ab-23272365ce59",
+            "name": "B3_drum2",
+            "filename": "B3_drum2.uge",
             "settings": {},
             "type": "uge"
         },
@@ -34789,6 +36104,13 @@
             "type": "uge"
         },
         {
+            "id": "08807ff3-188a-4cbf-a740-19c7aecc9b0f",
+            "name": "C3_drum2",
+            "filename": "C3_drum2.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
             "id": "d416d768-0303-4b9e-95e0-8cc1771a1a75",
             "name": "C3_instr7",
             "filename": "C3_instr7.uge",
@@ -34848,6 +36170,13 @@
             "id": "f2f12d16-eae8-461b-bf4b-a41fdb4aa04a",
             "name": "C8_instr1",
             "filename": "C8_instr1.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
+            "id": "2f0531bf-5382-417b-9b4b-d0655ef44185",
+            "name": "D3_drum2",
+            "filename": "D3_drum2.uge",
             "settings": {},
             "type": "uge"
         },
@@ -34915,6 +36244,13 @@
             "type": "uge"
         },
         {
+            "id": "cd86745c-93d8-41b3-8a79-bc6acebbfdfd",
+            "name": "E3_drum2",
+            "filename": "E3_drum2.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
             "id": "9271c48e-6a7f-462a-89d1-b06dce364442",
             "name": "E3_instr7",
             "filename": "E3_instr7.uge",
@@ -34978,6 +36314,13 @@
             "type": "uge"
         },
         {
+            "id": "bcf28fab-3b14-498e-9893-f95972327a14",
+            "name": "F3_drum2",
+            "filename": "F3_drum2.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
             "id": "952fc6eb-3966-4e36-a01c-945b4675a7b5",
             "name": "F3_instr7",
             "filename": "F3_instr7.uge",
@@ -35037,6 +36380,13 @@
             "id": "97bdfd09-281a-4655-a1d7-f5377a8d3dd9",
             "name": "F8_instr1",
             "filename": "F8_instr1.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
+            "id": "958bdd2f-a813-4d8d-a3e0-10d6e53a96a5",
+            "name": "G3_drum2",
+            "filename": "G3_drum2.uge",
             "settings": {},
             "type": "uge"
         },
@@ -35403,8 +36753,8 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": "all",
-        "worldScrollX": 827,
-        "worldScrollY": 1129,
+        "worldScrollX": 1066,
+        "worldScrollY": 1136,
         "zoom": 300,
         "customColorsEnabled": true,
         "sgbEnabled": false,
