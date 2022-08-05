@@ -52,7 +52,7 @@ Keys 0 - 3 = directions, 4 = button A,
 5 = 2xA, 6 = 3xA, 7= button B,
 8 = Select, 9 = Select
 Allow midi in Chrome. Suggested source for midi-jamming:
-https://www.pythonanywhere.com/user/Fumetsujo/files/home/Fumetsujo/Eir_Remote/st... 
+https://fumetsujo.pythonanywhere.com/static/OTHER/POG8/index.html
 
 Game is automatically saved after a change.
 
