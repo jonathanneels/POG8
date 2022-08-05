@@ -55,6 +55,7 @@ Keys 0 - 3 = directions, 4 = button A,
 Allow midi in Chrome. Suggested source for midi-jamming:
 https://fumetsujo.pythonanywhere.com/static/OTHER/POG8/index.html
 
+--------
 
 
 Game is automatically saved after a change.
