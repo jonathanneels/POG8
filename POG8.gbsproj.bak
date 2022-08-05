@@ -13557,7 +13557,7 @@
                         ],
                         "override": false,
                         "__scriptTabs": "press",
-                        "__collapse": false,
+                        "__collapse": true,
                         "__comment": false
                     },
                     "children": {
@@ -15245,7 +15245,7 @@
                                                 "operator": "==",
                                                 "comparator": 5,
                                                 "__collapseElse": true,
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "children": {
                                                 "true": [
@@ -17274,7 +17274,7 @@
                                                 "operator": "==",
                                                 "comparator": 5,
                                                 "__collapseElse": true,
-                                                "__collapse": true
+                                                "__collapse": false
                                             },
                                             "children": {
                                                 "true": [
@@ -21211,7 +21211,7 @@
                         ],
                         "override": false,
                         "__scriptTabs": "press",
-                        "__collapse": true
+                        "__collapse": false
                     },
                     "children": {
                         "true": [
@@ -21222,7 +21222,7 @@
                                     "operator": "==",
                                     "comparator": "0",
                                     "__collapseElse": false,
-                                    "__collapse": true
+                                    "__collapse": false
                                 },
                                 "children": {
                                     "true": [
@@ -21286,7 +21286,7 @@
                                                         "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
                                                         "args": {
                                                             "actorId": "a1948f5c-dd78-4910-9c02-77b23dd7b247",
-                                                            "speed": 2.2,
+                                                            "speed": 10,
                                                             "__collapse": false
                                                         },
                                                         "id": "c001bfdd-0d44-489e-9103-e8ae9a34c34c"
@@ -21303,7 +21303,7 @@
                                                 "operator": "==",
                                                 "comparator": 4,
                                                 "__collapseElse": false,
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "children": {
                                                 "true": [
@@ -21321,7 +21321,7 @@
                                                         "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
                                                         "args": {
                                                             "actorId": "a1948f5c-dd78-4910-9c02-77b23dd7b247",
-                                                            "speed": 1.95,
+                                                            "speed": 7.5,
                                                             "__collapse": false
                                                         },
                                                         "id": "361927b2-0e67-490f-a3ef-d6d284b7fdd3"
@@ -21338,7 +21338,7 @@
                                                 "operator": "==",
                                                 "comparator": 3,
                                                 "__collapseElse": false,
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "children": {
                                                 "true": [
@@ -21356,7 +21356,7 @@
                                                         "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
                                                         "args": {
                                                             "actorId": "a1948f5c-dd78-4910-9c02-77b23dd7b247",
-                                                            "speed": 1.6,
+                                                            "speed": 5,
                                                             "__collapse": false
                                                         },
                                                         "id": "f2f7a79b-05a9-40cd-a192-d84f1106a975"
@@ -21373,7 +21373,7 @@
                                                 "operator": "==",
                                                 "comparator": 2,
                                                 "__collapseElse": false,
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "children": {
                                                 "true": [
@@ -21391,7 +21391,7 @@
                                                         "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
                                                         "args": {
                                                             "actorId": "a1948f5c-dd78-4910-9c02-77b23dd7b247",
-                                                            "speed": 1.45,
+                                                            "speed": 2.5,
                                                             "__collapse": false
                                                         },
                                                         "id": "a550644a-4e4d-44f3-8d0a-16b92b96efbd"
@@ -21426,7 +21426,7 @@
                                                         "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
                                                         "args": {
                                                             "actorId": "a1948f5c-dd78-4910-9c02-77b23dd7b247",
-                                                            "speed": 1.2,
+                                                            "speed": 1.5,
                                                             "__collapse": false
                                                         },
                                                         "id": "ba7a0773-abb6-45cd-b21e-7dd9f92488a4"
@@ -21477,7 +21477,7 @@
                                                 "operator": "==",
                                                 "comparator": -1,
                                                 "__collapseElse": false,
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "children": {
                                                 "true": [
@@ -21512,7 +21512,7 @@
                                                 "operator": "==",
                                                 "comparator": -2,
                                                 "__collapseElse": false,
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "children": {
                                                 "true": [
@@ -21547,7 +21547,7 @@
                                                 "operator": "==",
                                                 "comparator": -3,
                                                 "__collapseElse": false,
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "children": {
                                                 "true": [
@@ -30177,7 +30177,7 @@
                         "operator": "==",
                         "comparator": -1,
                         "__collapseElse": true,
-                        "__collapse": false,
+                        "__collapse": true,
                         "__disableElse": false,
                         "__comment": false
                     },
@@ -36909,9 +36909,30 @@
                                                             "frequency": 200,
                                                             "duration": 0.1,
                                                             "wait": true,
-                                                            "__collapse": false
+                                                            "__collapse": false,
+                                                            "__comment": true
                                                         },
                                                         "id": "1b8b9dd1-a233-454f-bb36-938f749ad4bb"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_PLAY",
+                                                        "args": {
+                                                            "musicId": "aa77b623-22c8-4193-9c01-3a7e368cfee9",
+                                                            "loop": true
+                                                        },
+                                                        "id": "542ffd95-47fd-404a-b288-7f9164afee11"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_WAIT",
+                                                        "args": {
+                                                            "time": 0.1
+                                                        },
+                                                        "id": "20ea0f9e-b324-4239-8ae9-7d1e69ae36de"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_STOP",
+                                                        "args": {},
+                                                        "id": "3d00d173-30f6-467c-be7e-b676443d307c"
                                                     }
                                                 ],
                                                 "false": []
@@ -36930,16 +36951,24 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_SOUND_PLAY_EFFECT",
+                                                        "command": "EVENT_MUSIC_PLAY",
                                                         "args": {
-                                                            "type": "beep",
-                                                            "pitch": 1,
-                                                            "frequency": 200,
-                                                            "duration": 0.1,
-                                                            "wait": true,
-                                                            "__collapse": false
+                                                            "musicId": "1ee46505-020e-4564-b2d7-e19b1edf0b28",
+                                                            "loop": true
                                                         },
-                                                        "id": "a3524fbb-04c2-416c-8290-c6ba18f0ab58"
+                                                        "id": "9e31c8a9-048e-4d17-90e7-c93ec544a1dc"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_WAIT",
+                                                        "args": {
+                                                            "time": 0.1
+                                                        },
+                                                        "id": "8a4c1f2b-6181-42d5-93ee-fba327a7e911"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_STOP",
+                                                        "args": {},
+                                                        "id": "fe6a7257-11c2-4b45-be00-6198c2a23c64"
                                                     }
                                                 ],
                                                 "false": []
@@ -36958,16 +36987,24 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_SOUND_PLAY_EFFECT",
+                                                        "command": "EVENT_MUSIC_PLAY",
                                                         "args": {
-                                                            "type": "beep",
-                                                            "pitch": 2,
-                                                            "frequency": 200,
-                                                            "duration": 0.1,
-                                                            "wait": true,
-                                                            "__collapse": false
+                                                            "musicId": "87afa16d-7a13-41a5-adfc-17522008c207",
+                                                            "loop": false
                                                         },
-                                                        "id": "68da9c8f-467a-4280-9307-c526a78cca56"
+                                                        "id": "de4a4a56-a143-42d0-a6b0-8a44f8d9ba16"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_WAIT",
+                                                        "args": {
+                                                            "time": 0.1
+                                                        },
+                                                        "id": "5d55f898-5069-441e-a78a-515ebeb219aa"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_STOP",
+                                                        "args": {},
+                                                        "id": "d1a60ff0-3651-495d-8290-a96d8b4d9dc1"
                                                     }
                                                 ],
                                                 "false": []
@@ -36986,16 +37023,24 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_SOUND_PLAY_EFFECT",
+                                                        "command": "EVENT_MUSIC_PLAY",
                                                         "args": {
-                                                            "type": "beep",
-                                                            "pitch": 3,
-                                                            "frequency": 200,
-                                                            "duration": 0.1,
-                                                            "wait": true,
-                                                            "__collapse": false
+                                                            "musicId": "b68fbed5-7e1c-4eaa-bac7-95d4f77d8640",
+                                                            "loop": false
                                                         },
-                                                        "id": "a6bfd366-4213-4752-914c-eacc6f18f798"
+                                                        "id": "60d27bc3-0a97-470e-b6b9-c2bf866545ea"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_WAIT",
+                                                        "args": {
+                                                            "time": 0.1
+                                                        },
+                                                        "id": "52cafbc1-411d-4f03-b410-a83aab2e659d"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_STOP",
+                                                        "args": {},
+                                                        "id": "b94285c6-cba6-41d5-912c-6d003803744f"
                                                     }
                                                 ],
                                                 "false": []
@@ -37014,16 +37059,24 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_SOUND_PLAY_EFFECT",
+                                                        "command": "EVENT_MUSIC_PLAY",
                                                         "args": {
-                                                            "type": "beep",
-                                                            "pitch": 4,
-                                                            "frequency": 200,
-                                                            "duration": 0.1,
-                                                            "wait": true,
-                                                            "__collapse": false
+                                                            "musicId": "dc51cdd2-572d-4cf5-82ca-6bb9cf302dbd",
+                                                            "loop": false
                                                         },
-                                                        "id": "84f90b07-f74c-4a22-8c44-f0fc5fc2a3b8"
+                                                        "id": "ceac1f7c-8380-46ea-9ac3-d397c64db410"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_WAIT",
+                                                        "args": {
+                                                            "time": 0.1
+                                                        },
+                                                        "id": "2ae27354-58c6-42d4-8084-a23c0d1051aa"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_STOP",
+                                                        "args": {},
+                                                        "id": "4cb45e5b-dfaf-43e9-ae35-77ce0ed18099"
                                                     }
                                                 ],
                                                 "false": []
@@ -37042,16 +37095,24 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_SOUND_PLAY_EFFECT",
+                                                        "command": "EVENT_MUSIC_PLAY",
                                                         "args": {
-                                                            "type": "beep",
-                                                            "pitch": 5,
-                                                            "frequency": 200,
-                                                            "duration": 0.1,
-                                                            "wait": true,
-                                                            "__collapse": false
+                                                            "musicId": "a15b163b-7e7f-4f38-8d41-b716d78c085a",
+                                                            "loop": false
                                                         },
-                                                        "id": "1a21bfaa-4a74-4976-8668-da9f828a0eb2"
+                                                        "id": "f6482428-81d8-457e-96bd-6720943ad739"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_WAIT",
+                                                        "args": {
+                                                            "time": 0.1
+                                                        },
+                                                        "id": "d978df8c-27df-4d34-8791-2f1d5ba83fd3"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_STOP",
+                                                        "args": {},
+                                                        "id": "34dbb186-2bad-45f6-9cc6-82f584f7e16b"
                                                     }
                                                 ],
                                                 "false": []
@@ -37070,16 +37131,24 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_SOUND_PLAY_EFFECT",
+                                                        "command": "EVENT_MUSIC_PLAY",
                                                         "args": {
-                                                            "type": "beep",
-                                                            "pitch": 6,
-                                                            "frequency": 200,
-                                                            "duration": 0.1,
-                                                            "wait": true,
-                                                            "__collapse": false
+                                                            "musicId": "59194f22-635c-4a90-a23f-480de54bde73",
+                                                            "loop": false
                                                         },
-                                                        "id": "fb42d54b-0407-4707-bef4-4f2045c35da2"
+                                                        "id": "8afb845c-d6f8-4087-aa37-62916d7be049"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_WAIT",
+                                                        "args": {
+                                                            "time": 0.1
+                                                        },
+                                                        "id": "b7243eac-6034-4542-9d1a-c9aba8f2a603"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_MUSIC_STOP",
+                                                        "args": {},
+                                                        "id": "1ef16b28-bfe7-4ddc-9c3d-e4af3907e01e"
                                                     }
                                                 ],
                                                 "false": []
@@ -37350,6 +37419,13 @@
     ],
     "music": [
         {
+            "id": "a15b163b-7e7f-4f38-8d41-b716d78c085a",
+            "name": "A3_beep1",
+            "filename": "A3_beep1.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
             "id": "a575bad2-ff6d-448b-8787-79711467e506",
             "name": "A3_drum2",
             "filename": "A3_drum2.uge",
@@ -37448,6 +37524,13 @@
             "type": "uge"
         },
         {
+            "id": "59194f22-635c-4a90-a23f-480de54bde73",
+            "name": "B3_beep1",
+            "filename": "B3_beep1.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
             "id": "7c4d6785-d43c-4d81-a1ab-23272365ce59",
             "name": "B3_drum2",
             "filename": "B3_drum2.uge",
@@ -37542,6 +37625,13 @@
             "id": "8f67cf4b-b6c0-4c83-a03c-36a605228db7",
             "name": "B8_instr1",
             "filename": "B8_instr1.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
+            "id": "aa77b623-22c8-4193-9c01-3a7e368cfee9",
+            "name": "C3_beep1",
+            "filename": "C3_beep1.uge",
             "settings": {},
             "type": "uge"
         },
@@ -38036,6 +38126,13 @@
             "type": "uge"
         },
         {
+            "id": "1ee46505-020e-4564-b2d7-e19b1edf0b28",
+            "name": "D3_beep1",
+            "filename": "D3_beep1.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
             "id": "2f0531bf-5382-417b-9b4b-d0655ef44185",
             "name": "D3_drum2",
             "filename": "D3_drum2.uge",
@@ -38130,6 +38227,13 @@
             "id": "965e2ae4-dea6-49e8-9b76-77a3794b16eb",
             "name": "D8_instr1",
             "filename": "D8_instr1.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
+            "id": "87afa16d-7a13-41a5-adfc-17522008c207",
+            "name": "E3_beep1",
+            "filename": "E3_beep1.uge",
             "settings": {},
             "type": "uge"
         },
@@ -38232,6 +38336,13 @@
             "type": "uge"
         },
         {
+            "id": "b68fbed5-7e1c-4eaa-bac7-95d4f77d8640",
+            "name": "F3_beep1",
+            "filename": "F3_beep1.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
             "id": "bcf28fab-3b14-498e-9893-f95972327a14",
             "name": "F3_drum2",
             "filename": "F3_drum2.uge",
@@ -38326,6 +38437,13 @@
             "id": "97bdfd09-281a-4655-a1d7-f5377a8d3dd9",
             "name": "F8_instr1",
             "filename": "F8_instr1.uge",
+            "settings": {},
+            "type": "uge"
+        },
+        {
+            "id": "dc51cdd2-572d-4cf5-82ca-6bb9cf302dbd",
+            "name": "G3_beep1",
+            "filename": "G3_beep1.uge",
             "settings": {},
             "type": "uge"
         },
@@ -38727,7 +38845,7 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": "all",
-        "worldScrollX": 201,
+        "worldScrollX": 712,
         "worldScrollY": 452,
         "zoom": 200,
         "customColorsEnabled": true,
