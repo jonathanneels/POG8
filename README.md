@@ -51,6 +51,7 @@ Midi-controller (set on lowest soundrange):
 Keys 0 - 3 = directions, 4 = button A,
 5 = 2xA, 6 = 3xA, 7= button B,
 8 = Select, 9 = Select
+
 Allow midi in Chrome. Suggested source for midi-jamming:
 https://fumetsujo.pythonanywhere.com/static/OTHER/POG8/index.html
 
