@@ -58,7 +58,7 @@ https://fumetsujo.pythonanywhere.com/static/OTHER/POG8/index.html
 --------
 
 
-Game is automatically saved after a change.
+You can save the game by selecting the option in the top-right corner.
 
 
 You can get the complete code here:
