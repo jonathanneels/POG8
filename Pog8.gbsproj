@@ -6,7 +6,7 @@
     "scenes": [
         {
             "name": "sceneInteraction",
-            "backgroundId": "45b52cfb-1820-4f5f-bc1c-e945984190ae",
+            "backgroundId": "37f0eb7d-f229-41e3-9967-b0bfbb69a33e",
             "width": 20,
             "height": 18,
             "type": "ADVENTURE",
@@ -31,7 +31,6 @@
                     "animSpeed": 127,
                     "paletteId": "",
                     "isPinned": false,
-                    "collisionGroup": "1",
                     "script": [],
                     "startScript": [
                         {
@@ -63,11 +62,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 3
+                                    "value": 2
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 2
+                                    "value": 0
                                 },
                                 "__collapse": true,
                                 "__comment": false
@@ -499,11 +498,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 8
+                                    "value": 3
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 2
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -936,11 +935,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 13
+                                    "value": 4
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 2
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -1373,11 +1372,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 18
+                                    "value": 5
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 2
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -1810,11 +1809,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 18
+                                    "value": 6
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 7
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -2247,11 +2246,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 13
+                                    "value": 7
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 6
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -2688,7 +2687,7 @@
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 6
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -3121,11 +3120,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 3
+                                    "value": 9
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 6
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -3558,11 +3557,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 3
+                                    "value": 10
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 11
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -3995,11 +3994,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 8
+                                    "value": 11
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 10
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -4432,11 +4431,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 13
+                                    "value": 12
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 10
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -4869,11 +4868,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 18
+                                    "value": 13
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 10
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -5306,11 +5305,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 18
+                                    "value": 14
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 15
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -5743,11 +5742,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 13
+                                    "value": 15
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 14
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -6180,11 +6179,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 8
+                                    "value": 16
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 14
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -6617,11 +6616,11 @@
                                 "actorId": "$self$",
                                 "x": {
                                     "type": "number",
-                                    "value": 3
+                                    "value": 17
                                 },
                                 "y": {
                                     "type": "number",
-                                    "value": 14
+                                    "value": 0
                                 },
                                 "moveType": "horizontal",
                                 "useCollisions": false,
@@ -7041,24 +7040,6 @@
                             "id": "5e3ce89c-3d67-47b4-b919-f44768177952"
                         },
                         {
-                            "command": "EVENT_ACTOR_MOVE_TO",
-                            "args": {
-                                "actorId": "$self$",
-                                "x": {
-                                    "type": "number",
-                                    "value": 2
-                                },
-                                "y": {
-                                    "type": "number",
-                                    "value": 18
-                                },
-                                "moveType": "horizontal",
-                                "useCollisions": false,
-                                "__collapse": true
-                            },
-                            "id": "3f49d82d-e41c-4b57-8931-6471cb113138"
-                        },
-                        {
                             "command": "EVENT_SET_VALUE",
                             "args": {
                                 "variable": "4",
@@ -7069,13 +7050,47 @@
                                 "__collapse": true
                             },
                             "id": "95cc95ad-a256-4a0c-8cbb-403c0f286ee1"
+                        },
+                        {
+                            "command": "EVENT_ACTOR_MOVE_TO",
+                            "args": {
+                                "actorId": "$self$",
+                                "x": {
+                                    "type": "number",
+                                    "value": 18
+                                },
+                                "y": {
+                                    "type": "number",
+                                    "value": 0
+                                },
+                                "moveType": "horizontal",
+                                "useCollisions": false,
+                                "__collapse": true
+                            },
+                            "id": "1fd68ece-34e3-4d5a-8819-8be4b20d7272"
+                        },
+                        {
+                            "command": "EVENT_ACTOR_SET_POSITION",
+                            "args": {
+                                "actorId": "$self$",
+                                "x": {
+                                    "type": "number",
+                                    "value": 0
+                                },
+                                "y": {
+                                    "type": "number",
+                                    "value": 1
+                                },
+                                "__collapse": true
+                            },
+                            "id": "15ea7aba-ec3a-4cce-8579-9177c4f1bec8"
                         }
                     ],
                     "hit1Script": [],
                     "hit2Script": [],
                     "hit3Script": [],
                     "id": "a1948f5c-dd78-4910-9c02-77b23dd7b247",
-                    "x": 3,
+                    "x": 1,
                     "y": 0
                 },
                 {
@@ -7381,7 +7396,7 @@
                                 "operator": "==",
                                 "comparator": -1,
                                 "__collapseElse": true,
-                                "__collapse": false
+                                "__collapse": true
                             },
                             "children": {
                                 "true": [
@@ -7975,14 +7990,15 @@
                                                     "args": {
                                                         "actorId": "player",
                                                         "speed": 1.2,
-                                                        "__collapse": false
+                                                        "__collapse": true
                                                     },
                                                     "id": "421ea8f5-6b85-4a25-a4db-9c7de94263cb"
                                                 },
                                                 {
                                                     "command": "EVENT_ACTOR_COLLISIONS_ENABLE",
                                                     "args": {
-                                                        "actorId": "player"
+                                                        "actorId": "player",
+                                                        "__collapse": true
                                                     },
                                                     "id": "fcaf6d66-0ad3-4ded-b8fd-196dc80ab7a5"
                                                 },
@@ -7993,6 +8009,56 @@
                                                         "__collapse": true
                                                     },
                                                     "id": "1d7703d4-a5fa-4422-92ff-d5cbe8b1ff35"
+                                                },
+                                                {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "22",
+                                                        "operator": "==",
+                                                        "comparator": -5,
+                                                        "__collapseElse": true,
+                                                        "__collapse": true
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_ACTOR_SET_SPRITE",
+                                                                "args": {
+                                                                    "actorId": "b17de362-110e-4fe2-8e7a-c53541ed3a14",
+                                                                    "spriteSheetId": "3d333c6e-6584-44e3-a216-c4ac3b1cc750",
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "526e77b3-3b7a-46d5-968f-f867264912de"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "5b8ae4d0-f225-4b59-9eee-8a9cbc368db2"
+                                                },
+                                                {
+                                                    "command": "EVENT_IF_VALUE",
+                                                    "args": {
+                                                        "variable": "22",
+                                                        "operator": "==",
+                                                        "comparator": -4,
+                                                        "__collapseElse": true,
+                                                        "__collapse": true
+                                                    },
+                                                    "children": {
+                                                        "true": [
+                                                            {
+                                                                "command": "EVENT_ACTOR_SET_SPRITE",
+                                                                "args": {
+                                                                    "actorId": "b17de362-110e-4fe2-8e7a-c53541ed3a14",
+                                                                    "spriteSheetId": "a5991b40-8cb9-43eb-81e2-6d4b154d062e",
+                                                                    "__collapse": false
+                                                                },
+                                                                "id": "0148ce4a-1ca7-43a5-b13b-cb3cf436a751"
+                                                            }
+                                                        ],
+                                                        "false": []
+                                                    },
+                                                    "id": "c992451d-9eb3-41da-8de6-60507adcb0ef"
                                                 },
                                                 {
                                                     "command": "EVENT_IF_VALUE",
@@ -8648,11 +8714,6 @@
                                 "false": []
                             },
                             "id": "8ec45988-b035-44f7-bbdc-d7bdbaab2213"
-                        },
-                        {
-                            "command": "EVENT_CALL_CUSTOM_EVENT",
-                            "args": {},
-                            "id": "4e83543c-bcec-46d3-8342-0ea5a76ad8a9"
                         }
                     ],
                     "hit1Script": [],
@@ -13276,6 +13337,120 @@
                     "id": "b17de362-110e-4fe2-8e7a-c53541ed3a14",
                     "x": 8,
                     "y": 17
+                },
+                {
+                    "name": "actorSettings",
+                    "frame": 0,
+                    "animate": false,
+                    "spriteSheetId": "567e178f-feb0-4f0c-9ec2-58da2e01b863",
+                    "direction": "down",
+                    "moveSpeed": 1,
+                    "animSpeed": 15,
+                    "paletteId": "",
+                    "isPinned": false,
+                    "collisionGroup": "1",
+                    "script": [
+                        {
+                            "command": "EVENT_IF_VALUE",
+                            "args": {
+                                "variable": "3",
+                                "operator": "==",
+                                "comparator": "0",
+                                "__collapseElse": false,
+                                "__collapse": false
+                            },
+                            "children": {
+                                "true": [
+                                    {
+                                        "command": "EVENT_IF_VALUE",
+                                        "args": {
+                                            "variable": "43",
+                                            "operator": "==",
+                                            "comparator": "0",
+                                            "__collapseElse": false,
+                                            "__collapse": true
+                                        },
+                                        "children": {
+                                            "true": [
+                                                {
+                                                    "command": "EVENT_SET_VALUE",
+                                                    "args": {
+                                                        "variable": "43",
+                                                        "value": {
+                                                            "type": "number",
+                                                            "value": 1
+                                                        },
+                                                        "__collapse": false
+                                                    },
+                                                    "id": "24dd6535-4827-453d-8d90-2f7332f03656"
+                                                },
+                                                {
+                                                    "command": "EVENT_TEXT",
+                                                    "args": {
+                                                        "text": [
+                                                            "Tooltips enabled."
+                                                        ],
+                                                        "avatarId": ""
+                                                    },
+                                                    "id": "ac73e520-91bb-45f3-b70b-faa6304302a4"
+                                                }
+                                            ],
+                                            "false": [
+                                                {
+                                                    "command": "EVENT_SET_VALUE",
+                                                    "args": {
+                                                        "variable": "43",
+                                                        "value": {
+                                                            "type": "number",
+                                                            "value": 0
+                                                        },
+                                                        "__collapse": false
+                                                    },
+                                                    "id": "2af7ec89-fa9b-4756-bf96-3cfae01720a7"
+                                                },
+                                                {
+                                                    "command": "EVENT_TEXT",
+                                                    "args": {
+                                                        "text": [
+                                                            "Tooltips disabled."
+                                                        ],
+                                                        "avatarId": ""
+                                                    },
+                                                    "id": "41aa338a-fa91-49cf-9284-6d0202e11f4e"
+                                                }
+                                            ]
+                                        },
+                                        "id": "f8cccaf1-f736-4b95-bcb1-fad96fbbcb64"
+                                    },
+                                    {
+                                        "command": "EVENT_ACTOR_SET_POSITION",
+                                        "args": {
+                                            "actorId": "player",
+                                            "x": {
+                                                "type": "number",
+                                                "value": 9
+                                            },
+                                            "y": {
+                                                "type": "number",
+                                                "value": 8
+                                            }
+                                        },
+                                        "id": "615aaead-a446-4eac-8745-c1c24e7309ee"
+                                    }
+                                ],
+                                "false": []
+                            },
+                            "id": "36d49a7a-aae0-44a4-a6ce-9b17976ba6ac"
+                        }
+                    ],
+                    "startScript": [],
+                    "updateScript": [],
+                    "hit1Script": [],
+                    "hit2Script": [],
+                    "hit3Script": [],
+                    "id": "0ad922f1-9bd2-4c42-a35c-5cb6a4e03e3d",
+                    "x": 18,
+                    "y": 1
                 }
             ],
             "triggers": [],
@@ -13327,15 +13502,30 @@
                                                         "children": {
                                                             "true": [
                                                                 {
-                                                                    "command": "EVENT_TEXT",
+                                                                    "command": "EVENT_IF_VALUE",
                                                                     "args": {
-                                                                        "text": [
-                                                                            "Mix jam & seq. set"
-                                                                        ],
-                                                                        "avatarId": "",
-                                                                        "__collapse": false
+                                                                        "variable": "43",
+                                                                        "operator": "==",
+                                                                        "comparator": 1,
+                                                                        "__collapseElse": true
                                                                     },
-                                                                    "id": "9f395d99-6e3e-4c9e-8285-312910e56240"
+                                                                    "children": {
+                                                                        "true": [
+                                                                            {
+                                                                                "command": "EVENT_TEXT",
+                                                                                "args": {
+                                                                                    "text": [
+                                                                                        "Mix jam & seq. set"
+                                                                                    ],
+                                                                                    "avatarId": "",
+                                                                                    "__collapse": false
+                                                                                },
+                                                                                "id": "9f395d99-6e3e-4c9e-8285-312910e56240"
+                                                                            }
+                                                                        ],
+                                                                        "false": []
+                                                                    },
+                                                                    "id": "7bb5e2c9-9a80-496a-9b78-de86b27c2102"
                                                                 },
                                                                 {
                                                                     "command": "EVENT_SET_VALUE",
@@ -13371,15 +13561,30 @@
                                                                     "children": {
                                                                         "true": [
                                                                             {
-                                                                                "command": "EVENT_TEXT",
+                                                                                "command": "EVENT_IF_VALUE",
                                                                                 "args": {
-                                                                                    "text": [
-                                                                                        "Seq. sounds 1 set."
-                                                                                    ],
-                                                                                    "avatarId": "",
-                                                                                    "__collapse": false
+                                                                                    "variable": "43",
+                                                                                    "operator": "==",
+                                                                                    "comparator": 1,
+                                                                                    "__collapseElse": true
                                                                                 },
-                                                                                "id": "ae790d14-04d1-4e78-9e87-76a533e034e2"
+                                                                                "children": {
+                                                                                    "true": [
+                                                                                        {
+                                                                                            "command": "EVENT_TEXT",
+                                                                                            "args": {
+                                                                                                "text": [
+                                                                                                    "Seq. sounds 1 set."
+                                                                                                ],
+                                                                                                "avatarId": "",
+                                                                                                "__collapse": false
+                                                                                            },
+                                                                                            "id": "ae790d14-04d1-4e78-9e87-76a533e034e2"
+                                                                                        }
+                                                                                    ],
+                                                                                    "false": []
+                                                                                },
+                                                                                "id": "f04c9317-7a85-42b0-b13e-323c8ecd1fe7"
                                                                             }
                                                                         ],
                                                                         "false": []
@@ -13398,15 +13603,30 @@
                                                                     "children": {
                                                                         "true": [
                                                                             {
-                                                                                "command": "EVENT_TEXT",
+                                                                                "command": "EVENT_IF_VALUE",
                                                                                 "args": {
-                                                                                    "text": [
-                                                                                        "Seq. sounds 2 set."
-                                                                                    ],
-                                                                                    "avatarId": "",
-                                                                                    "__collapse": false
+                                                                                    "variable": "43",
+                                                                                    "operator": "==",
+                                                                                    "comparator": 1,
+                                                                                    "__collapseElse": true
                                                                                 },
-                                                                                "id": "da28ce6f-cf91-4bbe-bff3-2ffbe4c01cfe"
+                                                                                "children": {
+                                                                                    "true": [
+                                                                                        {
+                                                                                            "command": "EVENT_TEXT",
+                                                                                            "args": {
+                                                                                                "text": [
+                                                                                                    "Seq. sounds 2 set."
+                                                                                                ],
+                                                                                                "avatarId": "",
+                                                                                                "__collapse": false
+                                                                                            },
+                                                                                            "id": "da28ce6f-cf91-4bbe-bff3-2ffbe4c01cfe"
+                                                                                        }
+                                                                                    ],
+                                                                                    "false": []
+                                                                                },
+                                                                                "id": "1eadb805-fd78-4e05-a578-0f0c1d6bfce2"
                                                                             }
                                                                         ],
                                                                         "false": []
@@ -13425,15 +13645,30 @@
                                                                     "children": {
                                                                         "true": [
                                                                             {
-                                                                                "command": "EVENT_TEXT",
+                                                                                "command": "EVENT_IF_VALUE",
                                                                                 "args": {
-                                                                                    "text": [
-                                                                                        "Seq. sounds 3 set."
-                                                                                    ],
-                                                                                    "avatarId": "",
-                                                                                    "__collapse": false
+                                                                                    "variable": "43",
+                                                                                    "operator": "==",
+                                                                                    "comparator": 1,
+                                                                                    "__collapseElse": true
                                                                                 },
-                                                                                "id": "b81b6ee4-e4a7-4481-ad75-8b012eb76af2"
+                                                                                "children": {
+                                                                                    "true": [
+                                                                                        {
+                                                                                            "command": "EVENT_TEXT",
+                                                                                            "args": {
+                                                                                                "text": [
+                                                                                                    "Seq. sounds 3 set."
+                                                                                                ],
+                                                                                                "avatarId": "",
+                                                                                                "__collapse": false
+                                                                                            },
+                                                                                            "id": "b81b6ee4-e4a7-4481-ad75-8b012eb76af2"
+                                                                                        }
+                                                                                    ],
+                                                                                    "false": []
+                                                                                },
+                                                                                "id": "e772969b-b289-4b79-baa5-df68b83596f5"
                                                                             }
                                                                         ],
                                                                         "false": []
@@ -13452,15 +13687,30 @@
                                                                     "children": {
                                                                         "true": [
                                                                             {
-                                                                                "command": "EVENT_TEXT",
+                                                                                "command": "EVENT_IF_VALUE",
                                                                                 "args": {
-                                                                                    "text": [
-                                                                                        "Seq. sounds 4 set."
-                                                                                    ],
-                                                                                    "avatarId": "",
-                                                                                    "__collapse": false
+                                                                                    "variable": "43",
+                                                                                    "operator": "==",
+                                                                                    "comparator": 1,
+                                                                                    "__collapseElse": true
                                                                                 },
-                                                                                "id": "4b560b4e-611c-43b3-8c10-3ae29e9e722e"
+                                                                                "children": {
+                                                                                    "true": [
+                                                                                        {
+                                                                                            "command": "EVENT_TEXT",
+                                                                                            "args": {
+                                                                                                "text": [
+                                                                                                    "Seq. sounds 4 set."
+                                                                                                ],
+                                                                                                "avatarId": "",
+                                                                                                "__collapse": false
+                                                                                            },
+                                                                                            "id": "4b560b4e-611c-43b3-8c10-3ae29e9e722e"
+                                                                                        }
+                                                                                    ],
+                                                                                    "false": []
+                                                                                },
+                                                                                "id": "1222ef44-47b3-4d11-a60c-4c88e2b7cce6"
                                                                             }
                                                                         ],
                                                                         "false": []
@@ -13519,7 +13769,7 @@
                                                 "operator": "==",
                                                 "comparator": 4,
                                                 "__collapseElse": false,
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "children": {
                                                 "true": [
@@ -21251,7 +21501,7 @@
                                                             "variable": "22",
                                                             "value": {
                                                                 "type": "number",
-                                                                "value": -3
+                                                                "value": -5
                                                             }
                                                         },
                                                         "id": "0845a4e2-b6ee-4448-962c-a9cc2a6bcdb9"
@@ -21273,14 +21523,29 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "seq. speed 5 set."
-                                                            ],
-                                                            "avatarId": ""
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
                                                         },
-                                                        "id": "309aeab1-4cb9-421f-87c2-8e6b1dfa89c3"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "seq. speed 5 set."
+                                                                        ],
+                                                                        "avatarId": ""
+                                                                    },
+                                                                    "id": "309aeab1-4cb9-421f-87c2-8e6b1dfa89c3"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "b2433e77-4822-4b80-bb78-8f519a3cadfa"
                                                     },
                                                     {
                                                         "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
@@ -21308,14 +21573,29 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "seq. speed 4 set."
-                                                            ],
-                                                            "avatarId": ""
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
                                                         },
-                                                        "id": "b2e16a95-01c0-4e7d-90e0-ebfe55d83853"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "seq. speed 4 set."
+                                                                        ],
+                                                                        "avatarId": ""
+                                                                    },
+                                                                    "id": "b2e16a95-01c0-4e7d-90e0-ebfe55d83853"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "3c4e3d9f-452d-496f-98a6-dfd1d1af48ab"
                                                     },
                                                     {
                                                         "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
@@ -21343,14 +21623,29 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "seq. speed 3 set."
-                                                            ],
-                                                            "avatarId": ""
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
                                                         },
-                                                        "id": "9c59cddb-0f1c-4090-a644-a86a835c2384"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "seq. speed 3 set."
+                                                                        ],
+                                                                        "avatarId": ""
+                                                                    },
+                                                                    "id": "9c59cddb-0f1c-4090-a644-a86a835c2384"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "decd7d49-b333-4873-8f21-403561759ce6"
                                                     },
                                                     {
                                                         "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
@@ -21378,14 +21673,29 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "seq. speed 2 set."
-                                                            ],
-                                                            "avatarId": ""
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
                                                         },
-                                                        "id": "aea34a4f-f023-453c-b403-f9622571a944"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "seq. speed 2 set."
+                                                                        ],
+                                                                        "avatarId": ""
+                                                                    },
+                                                                    "id": "aea34a4f-f023-453c-b403-f9622571a944"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "fc895b4c-1e4a-48be-8fc7-16c027b1c60b"
                                                     },
                                                     {
                                                         "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
@@ -21413,14 +21723,29 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "seq. speed 1 set."
-                                                            ],
-                                                            "avatarId": ""
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
                                                         },
-                                                        "id": "ed8bbca6-1b73-422b-a3d9-7415d8440214"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "seq. speed 1 set."
+                                                                        ],
+                                                                        "avatarId": ""
+                                                                    },
+                                                                    "id": "ed8bbca6-1b73-422b-a3d9-7415d8440214"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "24d3b5c0-d1d5-44ac-9081-b11e9665edd0"
                                                     },
                                                     {
                                                         "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
@@ -21448,14 +21773,29 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "seq. speed 0 set."
-                                                            ],
-                                                            "avatarId": ""
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
                                                         },
-                                                        "id": "5d217bd6-43b0-4942-b4c4-fb1813b4ac07"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "seq. speed 0 set."
+                                                                        ],
+                                                                        "avatarId": ""
+                                                                    },
+                                                                    "id": "5d217bd6-43b0-4942-b4c4-fb1813b4ac07"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "8f94ac39-0a10-4b87-a331-13264d023efa"
                                                     },
                                                     {
                                                         "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
@@ -21482,20 +21822,35 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "seq. speed -1 set."
-                                                            ],
-                                                            "avatarId": ""
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
                                                         },
-                                                        "id": "f0fcfe6a-a5ee-4918-a7d0-bff80788ef1d"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "seq. speed -1 set."
+                                                                        ],
+                                                                        "avatarId": ""
+                                                                    },
+                                                                    "id": "f0fcfe6a-a5ee-4918-a7d0-bff80788ef1d"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "857e09a6-5f7c-4f4c-bdcc-842523b1ccf6"
                                                     },
                                                     {
                                                         "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
                                                         "args": {
                                                             "actorId": "a1948f5c-dd78-4910-9c02-77b23dd7b247",
-                                                            "speed": 0.8,
+                                                            "speed": 0.85,
                                                             "__collapse": false
                                                         },
                                                         "id": "2110b2b2-a942-4c39-a1fe-dabb42f12cad"
@@ -21517,14 +21872,29 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "seq. speed -2 set."
-                                                            ],
-                                                            "avatarId": ""
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
                                                         },
-                                                        "id": "9fee405f-5210-4568-95f6-9a6ba170aa59"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "seq. speed -2 set."
+                                                                        ],
+                                                                        "avatarId": ""
+                                                                    },
+                                                                    "id": "9fee405f-5210-4568-95f6-9a6ba170aa59"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "638d4edb-a36a-4b8b-ad67-1513bdc95569"
                                                     },
                                                     {
                                                         "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
@@ -21552,14 +21922,29 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "seq. speed -3 set."
-                                                            ],
-                                                            "avatarId": ""
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
                                                         },
-                                                        "id": "c230410b-c3d6-4a6b-a7ae-8ccb4a03e6a2"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "seq. speed -3 set."
+                                                                        ],
+                                                                        "avatarId": ""
+                                                                    },
+                                                                    "id": "c230410b-c3d6-4a6b-a7ae-8ccb4a03e6a2"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "fcfde113-5a85-4368-a61a-43064ab158ec"
                                                     },
                                                     {
                                                         "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
@@ -21574,6 +21959,106 @@
                                                 "false": []
                                             },
                                             "id": "ce3c2fbf-a051-4664-bc2b-a188ef7ae1b1"
+                                        },
+                                        {
+                                            "command": "EVENT_IF_VALUE",
+                                            "args": {
+                                                "variable": "22",
+                                                "operator": "==",
+                                                "comparator": -4,
+                                                "__collapseElse": false,
+                                                "__collapse": true
+                                            },
+                                            "children": {
+                                                "true": [
+                                                    {
+                                                        "command": "EVENT_IF_VALUE",
+                                                        "args": {
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
+                                                        },
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "seq. speed -4 set."
+                                                                        ],
+                                                                        "avatarId": ""
+                                                                    },
+                                                                    "id": "c4d03c5f-5f92-4319-85b0-ca40d8dd8464"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "2ffc7b4c-a440-448b-87a0-bce63d852ddb"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
+                                                        "args": {
+                                                            "actorId": "a1948f5c-dd78-4910-9c02-77b23dd7b247",
+                                                            "speed": 0.25,
+                                                            "__collapse": false
+                                                        },
+                                                        "id": "f3dee561-9951-4316-aa7c-1fd4f23e2406"
+                                                    }
+                                                ],
+                                                "false": []
+                                            },
+                                            "id": "0d7a8d1a-54dd-457c-aed7-edd235a1b9f4"
+                                        },
+                                        {
+                                            "command": "EVENT_IF_VALUE",
+                                            "args": {
+                                                "variable": "22",
+                                                "operator": "==",
+                                                "comparator": -5,
+                                                "__collapseElse": false,
+                                                "__collapse": true
+                                            },
+                                            "children": {
+                                                "true": [
+                                                    {
+                                                        "command": "EVENT_IF_VALUE",
+                                                        "args": {
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
+                                                        },
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "seq. speed -5 set."
+                                                                        ],
+                                                                        "avatarId": ""
+                                                                    },
+                                                                    "id": "f5966284-cfd5-401b-8075-73b6f864ebf3"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "4c4a8e20-048e-401f-b569-715b1c085fa0"
+                                                    },
+                                                    {
+                                                        "command": "EVENT_ACTOR_SET_MOVEMENT_SPEED",
+                                                        "args": {
+                                                            "actorId": "a1948f5c-dd78-4910-9c02-77b23dd7b247",
+                                                            "speed": 0.1,
+                                                            "__collapse": false
+                                                        },
+                                                        "id": "94d978eb-7bec-4984-94dc-39bc4d8b42a5"
+                                                    }
+                                                ],
+                                                "false": []
+                                            },
+                                            "id": "83691311-3a5f-42c5-ba1c-19b2ac5d2766"
                                         }
                                     ],
                                     "false": []
@@ -21587,7 +22072,7 @@
                                     "operator": "==",
                                     "comparator": 1,
                                     "__collapseElse": false,
-                                    "__collapse": true
+                                    "__collapse": false
                                 },
                                 "children": {
                                     "true": [
@@ -21640,20 +22125,35 @@
                                                 "operator": "==",
                                                 "comparator": 5,
                                                 "__collapseElse": true,
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "Chord Min 1 set."
-                                                            ],
-                                                            "avatarId": "",
-                                                            "__collapse": false
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
                                                         },
-                                                        "id": "14174b07-2bd6-431a-a218-fc0507d55b14"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "Chord Min 1 set."
+                                                                        ],
+                                                                        "avatarId": "",
+                                                                        "__collapse": false
+                                                                    },
+                                                                    "id": "14174b07-2bd6-431a-a218-fc0507d55b14"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "1a604ef7-9f13-4291-bb30-6ebd107011a7"
                                                     }
                                                 ],
                                                 "false": []
@@ -21667,20 +22167,36 @@
                                                 "operator": "==",
                                                 "comparator": 4,
                                                 "__collapseElse": true,
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "Chord Maj 1 set."
-                                                            ],
-                                                            "avatarId": "",
-                                                            "__collapse": false
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true,
+                                                            "__collapse": true
                                                         },
-                                                        "id": "3c63d12e-34ee-4376-ad11-c6b8d6755933"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "Chord Maj 1 set."
+                                                                        ],
+                                                                        "avatarId": "",
+                                                                        "__collapse": false
+                                                                    },
+                                                                    "id": "3c63d12e-34ee-4376-ad11-c6b8d6755933"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "43859916-129b-4de1-bb00-2bf26a7935b7"
                                                     }
                                                 ],
                                                 "false": []
@@ -21694,20 +22210,35 @@
                                                 "operator": "==",
                                                 "comparator": 3,
                                                 "__collapseElse": true,
-                                                "__collapse": false
+                                                "__collapse": true
                                             },
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "Jam instr.4 set."
-                                                            ],
-                                                            "avatarId": "",
-                                                            "__collapse": false
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
                                                         },
-                                                        "id": "d78ac192-1c25-4d31-80e1-8ec8ba5e7b44"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "Jam instr.4 set."
+                                                                        ],
+                                                                        "avatarId": "",
+                                                                        "__collapse": false
+                                                                    },
+                                                                    "id": "d78ac192-1c25-4d31-80e1-8ec8ba5e7b44"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "bcd560a2-b6d9-42ae-bb78-5c66c50a931a"
                                                     }
                                                 ],
                                                 "false": []
@@ -21726,15 +22257,30 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "Jam instr.3 set."
-                                                            ],
-                                                            "avatarId": "",
-                                                            "__collapse": false
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
                                                         },
-                                                        "id": "0a93a31c-d078-4244-bb9d-9a96839748bb"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "Jam instr.3 set."
+                                                                        ],
+                                                                        "avatarId": "",
+                                                                        "__collapse": false
+                                                                    },
+                                                                    "id": "0a93a31c-d078-4244-bb9d-9a96839748bb"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "31295b6f-693b-4890-9629-a106c22b075e"
                                                     }
                                                 ],
                                                 "false": []
@@ -21753,15 +22299,30 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "Jam instr.2 set."
-                                                            ],
-                                                            "avatarId": "",
-                                                            "__collapse": false
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
                                                         },
-                                                        "id": "d58b3529-11c5-47d3-959c-e848d090bc41"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "Jam instr.2 set."
+                                                                        ],
+                                                                        "avatarId": "",
+                                                                        "__collapse": false
+                                                                    },
+                                                                    "id": "d58b3529-11c5-47d3-959c-e848d090bc41"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "35d1031e-63c9-43f1-91bb-ec77f8edfd2d"
                                                     }
                                                 ],
                                                 "false": []
@@ -21780,15 +22341,30 @@
                                             "children": {
                                                 "true": [
                                                     {
-                                                        "command": "EVENT_TEXT",
+                                                        "command": "EVENT_IF_VALUE",
                                                         "args": {
-                                                            "text": [
-                                                                "Jam instr.1 set."
-                                                            ],
-                                                            "avatarId": "",
-                                                            "__collapse": false
+                                                            "variable": "43",
+                                                            "operator": "==",
+                                                            "comparator": 1,
+                                                            "__collapseElse": true
                                                         },
-                                                        "id": "3f156e4c-5b7f-4203-9cd3-d057165f0d6a"
+                                                        "children": {
+                                                            "true": [
+                                                                {
+                                                                    "command": "EVENT_TEXT",
+                                                                    "args": {
+                                                                        "text": [
+                                                                            "Jam instr.1 set."
+                                                                        ],
+                                                                        "avatarId": "",
+                                                                        "__collapse": false
+                                                                    },
+                                                                    "id": "3f156e4c-5b7f-4203-9cd3-d057165f0d6a"
+                                                                }
+                                                            ],
+                                                            "false": []
+                                                        },
+                                                        "id": "ba425110-73d4-46f5-8269-c3a69895542a"
                                                     }
                                                 ],
                                                 "false": []
@@ -21835,8 +22411,8 @@
                                     "variable": "3",
                                     "operator": "==",
                                     "comparator": "0",
-                                    "__collapseElse": true,
-                                    "__collapse": true
+                                    "__collapseElse": false,
+                                    "__collapse": false
                                 },
                                 "children": {
                                     "true": [
@@ -22374,7 +22950,7 @@
                             "args": {
                                 "sceneId": "3c956ab2-3ec2-4db5-a95a-2fd06762b9a1",
                                 "x": 9,
-                                "y": 4,
+                                "y": 8,
                                 "direction": "",
                                 "fadeSpeed": "2"
                             },
@@ -22469,7 +23045,7 @@
                             "args": {
                                 "sceneId": "3c956ab2-3ec2-4db5-a95a-2fd06762b9a1",
                                 "x": 9,
-                                "y": 4,
+                                "y": 8,
                                 "direction": "",
                                 "fadeSpeed": "2"
                             },
@@ -22526,7 +23102,7 @@
                             "args": {
                                 "sceneId": "3c956ab2-3ec2-4db5-a95a-2fd06762b9a1",
                                 "x": 9,
-                                "y": 4,
+                                "y": 8,
                                 "direction": "",
                                 "fadeSpeed": "2"
                             },
@@ -22979,6 +23555,18 @@
                         "__collapse": true
                     },
                     "id": "a2c0532c-cb86-4d17-b69a-932036a92dd9"
+                },
+                {
+                    "command": "EVENT_SET_VALUE",
+                    "args": {
+                        "variable": "43",
+                        "value": {
+                            "type": "number",
+                            "value": 1
+                        },
+                        "__collapse": true
+                    },
+                    "id": "533ed8ed-8571-4f9a-9835-ce538da84f45"
                 },
                 {
                     "command": "EVENT_SET_VALUE",
@@ -23822,6 +24410,377 @@
             "imageWidth": 160,
             "imageHeight": 144,
             "filename": "custom_placeholderB_WithVersion.png",
+            "tileColors": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "id": "37f0eb7d-f229-41e3-9967-b0bfbb69a33e",
+            "name": "custom_placeholderC",
+            "width": 20,
+            "height": 18,
+            "imageWidth": 160,
+            "imageHeight": 144,
+            "filename": "custom_placeholderC.png",
             "tileColors": [
                 1,
                 1,
@@ -28273,6 +29232,133 @@
                             "frames": [
                                 {
                                     "id": "5d7defe2-f68c-493e-8ed9-2b07a76f60c9",
+                                    "tiles": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "numTiles": 2,
+            "canvasWidth": 16,
+            "canvasHeight": 16,
+            "boundsX": 0,
+            "boundsY": 0,
+            "boundsWidth": 16,
+            "boundsHeight": 16,
+            "animSpeed": 15
+        },
+        {
+            "id": "a5991b40-8cb9-43eb-81e2-6d4b154d062e",
+            "name": "min4",
+            "numFrames": 1,
+            "type": "static",
+            "filename": "min4.png",
+            "checksum": "6de2a174c0ab8562c81ecbdc66f2d8752effc79c",
+            "width": 16,
+            "height": 16,
+            "states": [
+                {
+                    "id": "59d51c96-908c-4aa2-8db1-2447f18777e2",
+                    "name": "",
+                    "animationType": "fixed",
+                    "flipLeft": false,
+                    "animations": [
+                        {
+                            "id": "2d6f7441-16b5-4d90-a586-7efcb1fbd6ae",
+                            "frames": [
+                                {
+                                    "id": "7f2252e0-9ad1-4833-bb91-a951c6f44217",
+                                    "tiles": [
+                                        {
+                                            "id": "fbd02048-ee60-46f6-9ace-7fc4cc7525b0",
+                                            "x": 0,
+                                            "y": 0,
+                                            "sliceX": 0,
+                                            "sliceY": 0,
+                                            "flipX": false,
+                                            "flipY": false,
+                                            "palette": 0,
+                                            "paletteIndex": 0,
+                                            "objPalette": "OBP0",
+                                            "priority": false
+                                        },
+                                        {
+                                            "id": "8baddfa7-5847-4f8c-abf8-f1bb75c5d803",
+                                            "x": 8,
+                                            "y": 0,
+                                            "sliceX": 8,
+                                            "sliceY": 0,
+                                            "flipX": false,
+                                            "flipY": false,
+                                            "palette": 0,
+                                            "paletteIndex": 0,
+                                            "objPalette": "OBP0",
+                                            "priority": false
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2b1a8887-2007-42f2-adf7-2567a08cc1db",
+                            "frames": [
+                                {
+                                    "id": "ff91e55c-28be-4627-9dcd-f0ff5cba6c0b",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "fa96838c-abe9-440f-bcc1-f952058973f2",
+                            "frames": [
+                                {
+                                    "id": "f14a03a2-9d75-4f6c-b639-704ebd26df24",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "0b639ce1-bb48-4993-9a92-26ab53e7b8ab",
+                            "frames": [
+                                {
+                                    "id": "81a9fc95-057c-45fe-9576-3a063b6ee1ff",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "a173d057-0be5-4423-af91-add47cac3ae7",
+                            "frames": [
+                                {
+                                    "id": "1795afc4-78eb-4738-b6ba-f455edf5d348",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "2b75f244-cade-4157-b355-9a2695d84dee",
+                            "frames": [
+                                {
+                                    "id": "5af46e82-801b-492d-9d27-9546bf0e9d93",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "6e755270-6357-4e23-a371-7a121335499b",
+                            "frames": [
+                                {
+                                    "id": "50253c4d-2540-4182-84b6-eb85d914f2d4",
+                                    "tiles": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": "c8856846-18d9-45ce-8519-ece72c138633",
+                            "frames": [
+                                {
+                                    "id": "ff18a0eb-5cd0-432e-8406-8b5923dd7d19",
                                     "tiles": []
                                 }
                             ]
@@ -38802,6 +39888,10 @@
             "name": "intRefresh"
         },
         {
+            "id": "43",
+            "name": "isWithToolTips"
+        },
+        {
             "id": "3c956ab2-3ec2-4db5-a95a-2fd06762b9a1__L0",
             "name": "local0"
         },
@@ -38845,9 +39935,9 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": "all",
-        "worldScrollX": 712,
-        "worldScrollY": 452,
-        "zoom": 200,
+        "worldScrollX": 849,
+        "worldScrollY": 660,
+        "zoom": 250,
         "customColorsEnabled": true,
         "sgbEnabled": false,
         "customHead": "  <link rel=\"icon\" type=\"image/x-icon\" href=\"data:image/x-icon;base64,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\">\n\n<script>\nconsole.log(\"Fumetsujo Studio - 2022\"); \n\nfunction touchStartButtonEvent()\n{\nvar e = new Event('touchstart');\ndocument.getElementById('controller_start').dispatchEvent(e);\n\nsetTimeout(function(){ \nvar e = new Event('touchend');\ndocument.getElementById('controller_start').dispatchEvent(e); }, 50);\n}\nfunction touchSelButtonEvent()\n{\nvar e = new Event('touchstart');\ndocument.getElementById('controller_select').dispatchEvent(e);\n\nsetTimeout(function(){ \nvar e = new Event('touchend');\ndocument.getElementById('controller_select').dispatchEvent(e); }, 50);\n}\nfunction touchAButtonEvent()\n{\nvar e = new Event('touchstart');\ndocument.getElementById('controller_a').dispatchEvent(e);\n\nsetTimeout(function(){ \nvar e = new Event('touchend');\ndocument.getElementById('controller_a').dispatchEvent(e); }, 50);\n}\nfunction touchBButtonEvent()\n{\nvar e = new Event('touchstart');\ndocument.getElementById('controller_b').dispatchEvent(e);\n\nsetTimeout(function(){ \nvar e = new Event('touchend');\ndocument.getElementById('controller_b').dispatchEvent(e); }, 50);\n}\n\nvar isOkToPressAMultiple=true;\ndocument.addEventListener('keydown', (event) => {\n    if (event.key == \"1\") \n{\n\n\nif(!isOkToPressAMultiple)\n{\nreturn;\n}\nisOkToPressAMultiple=false;\n\nconsole.log(\"Double pressed A.\");\n touchAButtonEvent(); \n\nsetTimeout(function(){ touchAButtonEvent();  \nisOkToPressAMultiple=true;\n\n}, 100);\n\n}\n    else if (event.key == \"2\") {\nif(!isOkToPressAMultiple)\n{\nreturn;\n}\nisOkToPressAMultiple=false;\n\nconsole.log(\"Tripple pressed A.\");\n\n touchAButtonEvent();  \nsetTimeout(function(){ touchAButtonEvent(); \nsetTimeout(function(){ touchAButtonEvent();  \nisOkToPressAMultiple=true;\n}, 100); \n}, 100);\n} \n});\n\n\n\n\n\nvar midi, mididata, isMidiLaunched;\n  var isOkToPressAMultiple=true;\n\nvar isOkToPressDirLMultiple=true;\nvar isOkToPressDirRMultiple=true;\nvar isOkToPressDirUMultiple=true;\nvar isOkToPressDirDMultiple=true;\n\nsetTimeout(function(){  launchMidiConnect(); }, 1);\n\n function launchMidiConnect()\n{\nif(!isMidiLaunched && window.location === window.parent.location){ \n\nisMidiLaunched=true;\n// request MIDI access\nif (navigator.requestMIDIAccess) {\n    navigator.requestMIDIAccess({\n        sysex: false // this defaults to 'false' and we won't be covering sysex in this article. \n    }).then(onMIDISuccess, onMIDIFailure);\n} else {\n    console.log(\"No MIDI support in your browser.\");\n}\nfunction onMIDISuccess(midiAccess) {\n\n    console.log('MIDI Access Object', midiAccess);\t\n\t    midi = midiAccess; \n    var inputs = midi.inputs.values();\n\n    for (var input = inputs.next(); input && !input.done; input = inputs.next()) {\n        input.value.onmidimessage = onMIDIMessage;\n    }\n\n}\n\nfunction onMIDIFailure(e) {\n    console.log(\"No access to MIDI devices or your browser doesn't support WebMIDI API. Please use WebMIDIAPIShim \" + e);\n}\n\nfunction onMIDIMessage(message) {\n    mididata = message.data; // this gives us our [command/channel, note, velocity] data.\n     cmd = mididata[0] >> 4,\n    channel = mididata[0] & 0xf,\n    type = mididata[0] & 0xf0, \n    noteMidi = mididata[1]; \n  \n\n    switch (type) {\n        case 144: // noteOn message \n \t\t  \n  for (var i = 0; i< 10; i++) {//gameboy has 8 \"buttons\"\n \n if(  i == noteMidi  &&  i == 0)\n   {   \n   if(!isOkToPressDirLMultiple)\n{\nreturn;\n}\nisOkToPressDirLMultiple=false;\n \nwindow.dispatchEvent(new KeyboardEvent('keydown', {\n    key: \"ArrowLeft\",\n    keyCode: 37,\n    code: \"ArrowLeft\",\n    which: 37,\n    shiftKey: false,\n    ctrlKey: false,\n    metaKey: false\n}));\n\n setTimeout(function(){ \nwindow.dispatchEvent(new KeyboardEvent('keyup', {\n    key: \"ArrowLeft\",\n    keyCode: 37,\n    code: \"ArrowLeft\",\n    which: 37,\n    shiftKey: false,\n    ctrlKey: false,\n    metaKey: false\n}));\nisOkToPressDirLMultiple=true;\n}, 50);\n\t}\n\telse if(  i == noteMidi  &&  i == 1)\n   {\n    if(!isOkToPressDirUMultiple)\n{\nreturn;\n}\nisOkToPressDirUMultiple=false;\nwindow.dispatchEvent(new KeyboardEvent('keydown', {\n    key: \"ArrowUp\",\n    keyCode: 38,\n    code: \"ArrowUp\",\n    which: 38,\n    shiftKey: false,\n    ctrlKey: false,\n    metaKey: false\n}));\n\n setTimeout(function(){ \nwindow.dispatchEvent(new KeyboardEvent('keyup', {\n      key: \"ArrowUp\",\n    keyCode: 38,\n    code: \"ArrowUp\",\n    which: 38,\n    shiftKey: false,\n    ctrlKey: false,\n    metaKey: false\n}));\nisOkToPressDirUMultiple=true;\n}, 50);\n\t}\n\telse if(  i == noteMidi  &&  i == 2)\n   { \n    if(!isOkToPressDirRMultiple)\n{\nreturn;\n}\nisOkToPressDirRMultiple=false;\n window.dispatchEvent(new KeyboardEvent('keydown', {\n    key: \"ArrowRight\",\n    keyCode: 39,\n    code: \"ArrowRight\",\n    which: 39,\n    shiftKey: false,\n    ctrlKey: false,\n    metaKey: false\n}));\n\n setTimeout(function(){ \nwindow.dispatchEvent(new KeyboardEvent('keyup', {\n    key: \"ArrowRight\",\n    keyCode: 39,\n    code: \"ArrowRight\",\n    which: 39,\n    shiftKey: false,\n    ctrlKey: false,\n    metaKey: false\n}));\nisOkToPressDirRMultiple=true;\n}, 50);\n\t}\n\telse if(  i == noteMidi  &&  i == 3)\n   {\n       if(!isOkToPressDirDMultiple)\n{\nreturn;\n}\nisOkToPressDirDMultiple=false;\nwindow.dispatchEvent(new KeyboardEvent('keydown', {\n    key: \"ArrowDown\",\n    keyCode: 40,\n    code: \"ArrowDown\",\n    which: 40,\n    shiftKey: false,\n    ctrlKey: false,\n    metaKey: false\n}));\n\n setTimeout(function(){ \nwindow.dispatchEvent(new KeyboardEvent('keyup', {\n    key: \"ArrowDown\",\n    keyCode: 40,\n    code: \"ArrowDown\",\n    which: 40,\n    shiftKey: false,\n    ctrlKey: false,\n    metaKey: false\n}));\nisOkToPressDirDMultiple=true;\n}, 50);\n\t}\n\telse if(  i == noteMidi  &&  i ==4)\n   {\ntouchAButtonEvent();\n\t}\n\telse if(  i == noteMidi  &&  i ==5)\n   {\nif(!isOkToPressAMultiple)\n{\nreturn;\n}\nisOkToPressAMultiple=false;\n\nconsole.log(\"Double pressed A.\");\n touchAButtonEvent(); \n\nsetTimeout(function(){ touchAButtonEvent();  \nisOkToPressAMultiple=true;\n\n}, 100);\n\n\t}\n\telse if(  i == noteMidi  &&  i ==6)\n   {\n\nif(!isOkToPressAMultiple)\n{\nreturn;\n}\nisOkToPressAMultiple=false;\n\nconsole.log(\"Tripple pressed A.\");\n\n touchAButtonEvent();  \nsetTimeout(function(){ touchAButtonEvent(); \nsetTimeout(function(){ touchAButtonEvent();  \nisOkToPressAMultiple=true;\n}, 100); \n}, 100);\n\n\t} \n\t\n\t\telse if(  i == noteMidi  &&  i == 7)\n   {\ntouchBButtonEvent();\n\t}\n\t\t\telse if(  i == noteMidi  &&  i ==8)\n   {\ntouchStartButtonEvent();\n\t}\n\t\t\telse if(  i == noteMidi  &&  i ==9)\n   {\ntouchSelButtonEvent();\n\t}\n   }   \n\n             break;\n        case 128: // noteOff message \n\n            break;\n    }\n }\n}\n}\n\n\n</script>",
