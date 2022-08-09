@@ -1,5 +1,5 @@
 Jam live music or sequence a beat or solve a perfect tune quest.
-POG8 is the audiophile's 8-bit sounds heaven!
+POG8 is the 8-bit audiophile's heaven!
 
 This game can be played in the browser or local on any modern device (with Chrome or Firefox). 
 
