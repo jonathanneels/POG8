@@ -1,5 +1,6 @@
 Jam live music or sequence a beat or solve a perfect tune quest.
 POG8 is the audiophile's 8-bit sounds heaven!
+
 This game can be played in the browser or local on any modern device (with Chrome or Firefox). 
 
 You can control the game with gamepad, touch, keyboard or even with a midi-controller! 
