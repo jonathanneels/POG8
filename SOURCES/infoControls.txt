@@ -1,3 +1,6 @@
+Jam live music or sequence a beat or solve a perfect tune quest.
+POG8 is the 8-bit audiophile's heaven!
+
 This game can be played in the browser or local on any modern device (with Chrome or Firefox). 
 
 You can control the game with gamepad, touch, keyboard or even with a midi-controller! 
@@ -5,7 +8,7 @@ POG8 (Pocket Operator Game Eight aka Pocket Operator Game 8oy) is a music tool.
 It's a musical step sequencer and a jamming instrument, with a variety of sounds. 
 
 
-Reason of the project:  I love Pocket Operator from Teenage Engineering and the classic Game Boy! 
+Reason of the project:  I love Pocket Operator from Teenage Engineering and I adore the classic Game Boy! 
 Just imagine if the Pocket Operators made their debut in the 90's.  
 The used "programming tool" for the project is the Gameboy Studio V3. 
 
