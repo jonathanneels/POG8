@@ -12890,13 +12890,13 @@
                                             "option1": "Save",
                                             "option2": "Load ",
                                             "option3": "Home",
-                                            "option4": "Tooltip",
+                                            "option4": "R-E-M-I",
                                             "option5": "Sq.prog",
-                                            "option6": "R-E-M-I",
+                                            "option6": "Tooltip",
                                             "option7": "",
                                             "option8": "",
                                             "cancelOnB": false,
-                                            "layout": "menu",
+                                            "layout": "dialogue",
                                             "cancelOnLastOption": false,
                                             "__collapse": false
                                         },
@@ -13005,65 +13005,15 @@
                                                                             "children": {
                                                                                 "true": [
                                                                                     {
-                                                                                        "command": "EVENT_IF_VALUE",
+                                                                                        "command": "EVENT_SWITCH_SCENE",
                                                                                         "args": {
-                                                                                            "variable": "43",
-                                                                                            "operator": "==",
-                                                                                            "comparator": "0",
-                                                                                            "__collapseElse": false,
-                                                                                            "__collapse": false
+                                                                                            "sceneId": "cfff54c2-f4ac-4c0f-a135-69d5720b4671",
+                                                                                            "x": 9,
+                                                                                            "y": 8,
+                                                                                            "direction": "",
+                                                                                            "fadeSpeed": "2"
                                                                                         },
-                                                                                        "children": {
-                                                                                            "true": [
-                                                                                                {
-                                                                                                    "command": "EVENT_SET_VALUE",
-                                                                                                    "args": {
-                                                                                                        "variable": "43",
-                                                                                                        "value": {
-                                                                                                            "type": "number",
-                                                                                                            "value": 1
-                                                                                                        },
-                                                                                                        "__collapse": false
-                                                                                                    },
-                                                                                                    "id": "28a1cad2-c2b1-48e6-bd6d-1d50488ae08b"
-                                                                                                },
-                                                                                                {
-                                                                                                    "command": "EVENT_TEXT",
-                                                                                                    "args": {
-                                                                                                        "text": [
-                                                                                                            "Tooltips enabled."
-                                                                                                        ],
-                                                                                                        "avatarId": ""
-                                                                                                    },
-                                                                                                    "id": "6a40992b-576a-40c5-8513-7e37832cdac5"
-                                                                                                }
-                                                                                            ],
-                                                                                            "false": [
-                                                                                                {
-                                                                                                    "command": "EVENT_SET_VALUE",
-                                                                                                    "args": {
-                                                                                                        "variable": "43",
-                                                                                                        "value": {
-                                                                                                            "type": "number",
-                                                                                                            "value": 0
-                                                                                                        },
-                                                                                                        "__collapse": false
-                                                                                                    },
-                                                                                                    "id": "8aedbb87-34a4-4355-87b4-f227138f3125"
-                                                                                                },
-                                                                                                {
-                                                                                                    "command": "EVENT_TEXT",
-                                                                                                    "args": {
-                                                                                                        "text": [
-                                                                                                            "Tooltips disabled."
-                                                                                                        ],
-                                                                                                        "avatarId": ""
-                                                                                                    },
-                                                                                                    "id": "1a22798f-56c4-44a9-bdc2-4283b1e9c68e"
-                                                                                                }
-                                                                                            ]
-                                                                                        },
-                                                                                        "id": "15ee3951-adce-4162-b024-2ab062c2ecb4"
+                                                                                        "id": "9a98977f-0fa6-4a65-b484-212b71852e9d"
                                                                                     }
                                                                                 ],
                                                                                 "false": [
@@ -13152,15 +13102,65 @@
                                                                                                     "children": {
                                                                                                         "true": [
                                                                                                             {
-                                                                                                                "command": "EVENT_SWITCH_SCENE",
+                                                                                                                "command": "EVENT_IF_VALUE",
                                                                                                                 "args": {
-                                                                                                                    "sceneId": "cfff54c2-f4ac-4c0f-a135-69d5720b4671",
-                                                                                                                    "x": 9,
-                                                                                                                    "y": 8,
-                                                                                                                    "direction": "",
-                                                                                                                    "fadeSpeed": "2"
+                                                                                                                    "variable": "43",
+                                                                                                                    "operator": "==",
+                                                                                                                    "comparator": "0",
+                                                                                                                    "__collapseElse": false,
+                                                                                                                    "__collapse": false
                                                                                                                 },
-                                                                                                                "id": "30caf558-c56a-46e9-9f09-eeef787cf2ef"
+                                                                                                                "children": {
+                                                                                                                    "true": [
+                                                                                                                        {
+                                                                                                                            "command": "EVENT_SET_VALUE",
+                                                                                                                            "args": {
+                                                                                                                                "variable": "43",
+                                                                                                                                "value": {
+                                                                                                                                    "type": "number",
+                                                                                                                                    "value": 1
+                                                                                                                                },
+                                                                                                                                "__collapse": false
+                                                                                                                            },
+                                                                                                                            "id": "5721827c-e5fe-4186-ae97-e42ac684c54f"
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "command": "EVENT_TEXT",
+                                                                                                                            "args": {
+                                                                                                                                "text": [
+                                                                                                                                    "Tooltips enabled."
+                                                                                                                                ],
+                                                                                                                                "avatarId": ""
+                                                                                                                            },
+                                                                                                                            "id": "6ec02f8a-17c5-4b42-8a9b-feb455f8fb05"
+                                                                                                                        }
+                                                                                                                    ],
+                                                                                                                    "false": [
+                                                                                                                        {
+                                                                                                                            "command": "EVENT_SET_VALUE",
+                                                                                                                            "args": {
+                                                                                                                                "variable": "43",
+                                                                                                                                "value": {
+                                                                                                                                    "type": "number",
+                                                                                                                                    "value": 0
+                                                                                                                                },
+                                                                                                                                "__collapse": false
+                                                                                                                            },
+                                                                                                                            "id": "d85b39af-338e-4ba4-806c-075e42cb7e94"
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "command": "EVENT_TEXT",
+                                                                                                                            "args": {
+                                                                                                                                "text": [
+                                                                                                                                    "Tooltips disabled."
+                                                                                                                                ],
+                                                                                                                                "avatarId": ""
+                                                                                                                            },
+                                                                                                                            "id": "e8025205-dc9e-4efd-b096-58248530e836"
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                "id": "d0d90783-dac7-4c98-8fda-dda0d3b15af1"
                                                                                                             }
                                                                                                         ],
                                                                                                         "false": []
@@ -23897,6 +23897,22 @@
                     "collisionGroup": "1",
                     "script": [
                         {
+                            "command": "EVENT_ACTOR_SET_POSITION",
+                            "args": {
+                                "actorId": "player",
+                                "x": {
+                                    "type": "number",
+                                    "value": 9
+                                },
+                                "y": {
+                                    "type": "number",
+                                    "value": 5
+                                },
+                                "__collapse": false
+                            },
+                            "id": "1fc8b0b2-8bc9-4e50-be8d-5261aa3e7fd0"
+                        },
+                        {
                             "command": "EVENT_TEXT",
                             "args": {
                                 "text": [
@@ -25417,6 +25433,22 @@
                     "isPinned": false,
                     "collisionGroup": "1",
                     "script": [
+                        {
+                            "command": "EVENT_ACTOR_SET_POSITION",
+                            "args": {
+                                "actorId": "player",
+                                "x": {
+                                    "type": "number",
+                                    "value": 14
+                                },
+                                "y": {
+                                    "type": "number",
+                                    "value": 11
+                                },
+                                "__collapse": false
+                            },
+                            "id": "750e13fd-0ec7-468d-889d-814ae6c84094"
+                        },
                         {
                             "command": "EVENT_TEXT",
                             "args": {
@@ -44032,7 +44064,7 @@
         "startDirection": "down",
         "showCollisions": true,
         "showConnections": "all",
-        "worldScrollX": 524,
+        "worldScrollX": 402,
         "worldScrollY": 435,
         "zoom": 150,
         "customColorsEnabled": true,
